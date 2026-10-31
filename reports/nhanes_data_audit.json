@@ -1,0 +1,42 @@
+{
+  "master_rows": 11933,
+  "modeling_rows": 5343,
+  "target_counts": {
+    "0": 4418,
+    "1": 471,
+    "2": 311,
+    "3": 143
+  },
+  "split_counts": {
+    "train": 3740,
+    "seen_holdout": 1603
+  },
+  "missing_counts": {
+    "RIDAGEYR": 0,
+    "RIAGENDR": 0,
+    "RIDRETH3": 0,
+    "DMDEDUC2": 2,
+    "INDFMPIR": 678,
+    "BMXBMI": 52,
+    "BMXWAIST": 203,
+    "sbp_mean": 138,
+    "dbp_mean": 138,
+    "BPQ020": 3,
+    "BPQ150": 5,
+    "DIQ010": 0,
+    "DIQ160": 939,
+    "current_smoking": 7,
+    "ALQ111": 669,
+    "ALQ121": 669,
+    "ALQ130": 1422,
+    "PAD680": 37,
+    "moderate_freq_week": 1060,
+    "BPQ080": 32,
+    "LBXTC": 0,
+    "LBDHDD": 0,
+    "LBXSUA": 0,
+    "LBXHGB": 22
+  },
+  "seqn_unique_master": 11933,
+  "seqn_unique_modeling": 5343
+}

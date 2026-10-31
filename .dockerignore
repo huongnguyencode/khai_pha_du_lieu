@@ -1,0 +1,11 @@
+.git
+.agents
+.aws
+.codex
+__pycache__
+*.pyc
+*.zip
+*.Identifier
+reports/w1
+models
+

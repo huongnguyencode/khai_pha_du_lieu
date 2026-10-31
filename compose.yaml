@@ -1,0 +1,15 @@
+services:
+  nhanes-train:
+    build:
+      context: .
+    image: nhanes-weighted-knn:local
+    working_dir: /workspace
+    volumes:
+      - ./data/processed:/workspace/data/processed
+      - ./reports:/workspace/reports
+      - ./models:/workspace/models
+    command: >-
+      bash -lc "PYTHONPATH=src python3 scripts/01_build_nhanes_database.py &&
+      python3 -m unittest discover -s tests -v &&
+      PYTHONPATH=src python3 scripts/02_train_w1.py"
+

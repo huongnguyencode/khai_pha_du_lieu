@@ -1,0 +1,71 @@
+{
+  "M1_W0": {
+    "cv_best_params": {
+      "knn__n_neighbors": 3
+    },
+    "cv_macro_f1": 0.3155302982659155,
+    "holdout_macro_f1": 0.2862624383008751,
+    "holdout_balanced_accuracy": 0.28253871075836734,
+    "holdout_confusion_matrix": [
+      [
+        1283,
+        25,
+        16,
+        2
+      ],
+      [
+        128,
+        6,
+        7,
+        0
+      ],
+      [
+        75,
+        3,
+        9,
+        6
+      ],
+      [
+        30,
+        6,
+        6,
+        1
+      ]
+    ]
+  },
+  "M2_equal_features_distance_vote": {
+    "cv_best_params": {
+      "knn__n_neighbors": 3,
+      "knn__weights": "distance"
+    },
+    "cv_macro_f1": 0.3398897227696692,
+    "holdout_macro_f1": 0.29814254859400513,
+    "holdout_balanced_accuracy": 0.2931602677794701,
+    "holdout_confusion_matrix": [
+      [
+        1254,
+        32,
+        30,
+        10
+      ],
+      [
+        120,
+        7,
+        14,
+        0
+      ],
+      [
+        70,
+        5,
+        10,
+        8
+      ],
+      [
+        25,
+        6,
+        9,
+        3
+      ]
+    ]
+  }
+}

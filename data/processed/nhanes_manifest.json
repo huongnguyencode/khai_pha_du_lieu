@@ -1,0 +1,138 @@
+{
+  "dataset": "NHANES August 2021-August 2023 CKD measurement-pattern study",
+  "created_utc": "2026-10-30T17:48:31.818206+00:00",
+  "pipeline_version": "1.0.0",
+  "join_key": "SEQN",
+  "join_strategy": "DEMO_L anchored left joins",
+  "master_rows": 11933,
+  "modeling_rows": 5343,
+  "feature_count": 24,
+  "features": [
+    "RIDAGEYR",
+    "RIAGENDR",
+    "RIDRETH3",
+    "DMDEDUC2",
+    "INDFMPIR",
+    "BMXBMI",
+    "BMXWAIST",
+    "sbp_mean",
+    "dbp_mean",
+    "BPQ020",
+    "BPQ150",
+    "DIQ010",
+    "DIQ160",
+    "current_smoking",
+    "ALQ111",
+    "ALQ121",
+    "ALQ130",
+    "PAD680",
+    "moderate_freq_week",
+    "BPQ080",
+    "LBXTC",
+    "LBDHDD",
+    "LBXSUA",
+    "LBXHGB"
+  ],
+  "target_counts": {
+    "0": 4418,
+    "1": 471,
+    "2": 311,
+    "3": 143
+  },
+  "historical_split_counts": {
+    "train": 3740,
+    "seen_holdout": 1603
+  },
+  "target_definition": "2021 CKD-EPI eGFR threshold 60 and uACR threshold 30 mg/g",
+  "historical_holdout_status": "seen; exploratory/history only; excluded from W1 selection",
+  "zero_normalization": {
+    "rule": "XPORT mathematical zero is emitted as exact 0; legacy 5.397605346934028e-79 is rejected",
+    "legacy_handoff_cells_detected": {
+      "ALQ121": 728,
+      "INDFMPIR": 41,
+      "PAD680": 3,
+      "total": 772
+    }
+  },
+  "source_files": {
+    "DEMO_L.xpt": {
+      "rows": 11933,
+      "sha256": "ca4374a158b493b8b0163e1388da21d57a18d1b9cecff2aa4e2fa2bec494fe23",
+      "bytes": 2582160
+    },
+    "BIOPRO_L.xpt": {
+      "rows": 7199,
+      "sha256": "912b345aad6b71d53a3bc299a7f3bb0d5530e9fa5b6e76d2d00103979861a476",
+      "bytes": 2425520
+    },
+    "ALB_CR_L.xpt": {
+      "rows": 8493,
+      "sha256": "fc011a80d14419884559372a3196f0a268b494f4f2fa972d00be1f3a23ba3c41",
+      "bytes": 545440
+    },
+    "BMX_L.xpt": {
+      "rows": 8860,
+      "sha256": "44440c416d9ad709e8b1708a5975378ab4d5b18edc39eb5015c2ae7186500170",
+      "bytes": 1563200
+    },
+    "BPXO_L.xpt": {
+      "rows": 7801,
+      "sha256": "189aa9bed689d2c69cf8d780b01de85073276fea5694dd52cdf696229f9054a6",
+      "bytes": 696720
+    },
+    "BPQ_L.xpt": {
+      "rows": 8501,
+      "sha256": "0acde3af0526c375942fe0735e3bf69a0422bcbc606f98a478209d2f47baa4b5",
+      "bytes": 409680
+    },
+    "DIQ_L.xpt": {
+      "rows": 11744,
+      "sha256": "9535a023673ae869afae19d842d8679e06f6a464606ac15900686b41ef05090f",
+      "bytes": 847600
+    },
+    "SMQ_L.xpt": {
+      "rows": 9015,
+      "sha256": "abbefebfa5585b1e19c079fa14be20c113a4649318070197214b258d05b93c50",
+      "bytes": 651120
+    },
+    "ALQ_L.xpt": {
+      "rows": 6337,
+      "sha256": "24debf0555c8253e34cce8d6a2e21766c84b10559e0c979c1a36fb4dd86789d9",
+      "bytes": 458320
+    },
+    "PAQ_L.xpt": {
+      "rows": 8153,
+      "sha256": "de34acfed4523f10f52bea06e64ed33c8db973cb38d3539eeceb2b68039248c8",
+      "bytes": 409520
+    },
+    "TCHOL_L.xpt": {
+      "rows": 8068,
+      "sha256": "5c3312e555bb0706fd97cbd63fcbc9e78f00bda8d2d149732d9dd368169b25d3",
+      "bytes": 259520
+    },
+    "HDL_L.xpt": {
+      "rows": 8068,
+      "sha256": "c1bb43df5ca366f470b411c043f4aee7ae6552a7f4bca1178bc87b24fb9a7300",
+      "bytes": 259520
+    },
+    "CBC_L.xpt": {
+      "rows": 8727,
+      "sha256": "4405da2a5899dcd11e3ef4dbec0b4d2fca6d736a3efa7a85afee668baa95923f",
+      "bytes": 1609840
+    }
+  },
+  "outputs": {
+    "data/processed/nhanes_master_by_seqn.csv": {
+      "sha256": "44663973c49cee8dc3a5aa6d197b93048b508b340caebe87ff69b72b0c359378",
+      "bytes": 6861700
+    },
+    "data/processed/nhanes_modeling_complete.csv": {
+      "sha256": "e6a8c422c23e6b6bf0f15c7cf24057abe18e730483a859687f874c95e1365184",
+      "bytes": 1493606
+    },
+    "data/processed/nhanes_data_dictionary.csv": {
+      "sha256": "07389152c5670e13a041b905ae9182cbf6bf67de529b69afa4377a2da3621c2d",
+      "bytes": 6208
+    }
+  }
+}

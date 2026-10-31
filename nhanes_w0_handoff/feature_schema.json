@@ -1,0 +1,112 @@
+{
+  "features": [
+    "RIDAGEYR",
+    "RIAGENDR",
+    "RIDRETH3",
+    "DMDEDUC2",
+    "INDFMPIR",
+    "BMXBMI",
+    "BMXWAIST",
+    "sbp_mean",
+    "dbp_mean",
+    "BPQ020",
+    "BPQ150",
+    "DIQ010",
+    "DIQ160",
+    "current_smoking",
+    "ALQ111",
+    "ALQ121",
+    "ALQ130",
+    "PAD680",
+    "moderate_freq_week",
+    "BPQ080",
+    "LBXTC",
+    "LBDHDD",
+    "LBXSUA",
+    "LBXHGB"
+  ],
+  "categorical_features": [
+    "RIAGENDR",
+    "RIDRETH3",
+    "DMDEDUC2",
+    "BPQ020",
+    "BPQ150",
+    "BPQ080",
+    "DIQ010",
+    "DIQ160",
+    "current_smoking",
+    "ALQ111",
+    "ALQ121"
+  ],
+  "categorical_levels": [
+    [
+      1,
+      2
+    ],
+    [
+      1,
+      2,
+      3,
+      4,
+      6,
+      7
+    ],
+    [
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    [
+      1,
+      2
+    ],
+    [
+      1,
+      2
+    ],
+    [
+      1,
+      2
+    ],
+    [
+      1,
+      2,
+      3
+    ],
+    [
+      1,
+      2
+    ],
+    [
+      0,
+      1
+    ],
+    [
+      1,
+      2
+    ],
+    [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10
+    ]
+  ],
+  "seed": 42,
+  "split": "stratified 70/30",
+  "target": {
+    "0": "eGFR >= 60 and uACR < 30",
+    "1": "eGFR >= 60 and uACR >= 30",
+    "2": "eGFR < 60 and uACR < 30",
+    "3": "eGFR < 60 and uACR >= 30"
+  }
+}

@@ -1,0 +1,50 @@
+column,role,model_input,source_module,source_label,data_type,allowed_levels,missing_rule
+SEQN,administrative,0,DEMO_L,Respondent sequence number,numeric_or_text,,not imputed in canonical table
+cycle,administrative,0,derived,derived/administrative,numeric_or_text,,not imputed in canonical table
+historical_split,administrative,0,derived,derived/administrative,numeric_or_text,,not imputed in canonical table
+eligible_ckd_pattern,administrative,0,derived,derived/administrative,numeric_or_text,,not imputed in canonical table
+WTMEC2YR,survey_design,0,DEMO_L,Full sample 2-year MEC exam weight,numeric_or_text,,not imputed in canonical table
+WTINT2YR,survey_design,0,DEMO_L,Full sample 2-year interview weight,numeric_or_text,,not imputed in canonical table
+SDMVSTRA,survey_design,0,DEMO_L,Masked variance pseudo-stratum,numeric_or_text,,not imputed in canonical table
+SDMVPSU,survey_design,0,DEMO_L,Masked variance pseudo-PSU,numeric_or_text,,not imputed in canonical table
+WTPH2YR,survey_design,0,BIOPRO_L,Phlebotomy 2 Year Weight,numeric_or_text,,not imputed in canonical table
+RIDAGEYR,model_feature,1,DEMO_L,Age in years at screening,numeric_or_text,,special/refusal codes -> missing; imputation is fold-local
+RIAGENDR,model_feature,1,DEMO_L,Gender,categorical,1|2,special/refusal codes -> missing; imputation is fold-local
+RIDRETH3,model_feature,1,DEMO_L,Race/Hispanic origin w/ NH Asian,categorical,1|2|3|4|6|7,special/refusal codes -> missing; imputation is fold-local
+DMDEDUC2,model_feature,1,DEMO_L,Education level - Adults 20+,categorical,1|2|3|4|5,special/refusal codes -> missing; imputation is fold-local
+INDFMPIR,model_feature,1,DEMO_L,Ratio of family income to poverty,numeric_or_text,,special/refusal codes -> missing; imputation is fold-local
+BMXBMI,model_feature,1,BMX_L,Body Mass Index (kg/m**2),numeric_or_text,,special/refusal codes -> missing; imputation is fold-local
+BMXWAIST,model_feature,1,BMX_L,Waist Circumference (cm),numeric_or_text,,special/refusal codes -> missing; imputation is fold-local
+sbp_mean,model_feature,1,derived,derived/administrative,numeric_or_text,,special/refusal codes -> missing; imputation is fold-local
+dbp_mean,model_feature,1,derived,derived/administrative,numeric_or_text,,special/refusal codes -> missing; imputation is fold-local
+BPQ020,model_feature,1,BPQ_L,Ever told you had high blood pressure,categorical,1|2,special/refusal codes -> missing; imputation is fold-local
+BPQ150,model_feature,1,BPQ_L,Taking high blood pressure medication,categorical,1|2,special/refusal codes -> missing; imputation is fold-local
+DIQ010,model_feature,1,DIQ_L,Doctor told you have diabetes,categorical,1|2|3,special/refusal codes -> missing; imputation is fold-local
+DIQ160,model_feature,1,DIQ_L,Ever told you have prediabetes,categorical,1|2,special/refusal codes -> missing; imputation is fold-local
+current_smoking,model_feature,1,derived,derived/administrative,categorical,0|1,special/refusal codes -> missing; imputation is fold-local
+ALQ111,model_feature,1,ALQ_L,Ever had a drink of any kind of alcohol,categorical,1|2,special/refusal codes -> missing; imputation is fold-local
+ALQ121,model_feature,1,ALQ_L,Past 12 mos how often drink alc bev,categorical,0|1|2|3|4|5|6|7|8|9|10,special/refusal codes -> missing; imputation is fold-local
+ALQ130,model_feature,1,ALQ_L,Avg # alcoholic drinks/day/past 12 mos,numeric_or_text,,special/refusal codes -> missing; imputation is fold-local
+PAD680,model_feature,1,PAQ_L,Minutes sedentary activity,numeric_or_text,,special/refusal codes -> missing; imputation is fold-local
+moderate_freq_week,model_feature,1,derived,derived/administrative,numeric_or_text,,special/refusal codes -> missing; imputation is fold-local
+BPQ080,model_feature,1,BPQ_L,Doctor told you - high cholesterol level,categorical,1|2,special/refusal codes -> missing; imputation is fold-local
+LBXTC,model_feature,1,TCHOL_L,Total Cholesterol (mg/dL),numeric_or_text,,special/refusal codes -> missing; imputation is fold-local
+LBDHDD,model_feature,1,HDL_L,Direct HDL-Cholesterol (mg/dL),numeric_or_text,,special/refusal codes -> missing; imputation is fold-local
+LBXSUA,model_feature,1,BIOPRO_L,Uric acid (mg/dL),numeric_or_text,,special/refusal codes -> missing; imputation is fold-local
+LBXHGB,model_feature,1,CBC_L,Hemoglobin (g/dL),numeric_or_text,,special/refusal codes -> missing; imputation is fold-local
+BPXOSY1,feature_source,0,BPXO_L,Systolic - 1st oscillometric reading,numeric_or_text,,not imputed in canonical table
+BPXOSY2,feature_source,0,BPXO_L,Systolic - 2nd oscillometric reading,numeric_or_text,,not imputed in canonical table
+BPXOSY3,feature_source,0,BPXO_L,Systolic - 3rd oscillometric reading,numeric_or_text,,not imputed in canonical table
+BPXODI1,feature_source,0,BPXO_L,Diastolic - 1st oscillometric reading,numeric_or_text,,not imputed in canonical table
+BPXODI2,feature_source,0,BPXO_L,Diastolic - 2nd oscillometric reading,numeric_or_text,,not imputed in canonical table
+BPXODI3,feature_source,0,BPXO_L,Diastolic - 3rd oscillometric reading,numeric_or_text,,not imputed in canonical table
+SMQ020,feature_source,0,SMQ_L,Smoked at least 100 cigarettes in life,numeric_or_text,,not imputed in canonical table
+SMQ040,feature_source,0,SMQ_L,Do you now smoke cigarettes?,numeric_or_text,,not imputed in canonical table
+PAD790Q,feature_source,0,PAQ_L,Frequency of moderate LTPA,numeric_or_text,,not imputed in canonical table
+PAD790U,feature_source,0,PAQ_L,Moderate LTPA unit (day/week/month/year),numeric_or_text,,not imputed in canonical table
+LBXSCR,label_source,0,BIOPRO_L,"Creatinine, refrigerated serum (mg/dL)",numeric_or_text,,not imputed in canonical table
+URXUMA,label_source,0,ALB_CR_L,"Albumin, urine (ug/mL)",numeric_or_text,,not imputed in canonical table
+URXUCR,label_source,0,ALB_CR_L,"Creatinine, urine (mg/dL)",numeric_or_text,,not imputed in canonical table
+egfr_2021_ckdepi,label_source,0,derived,derived/administrative,numeric_or_text,,not imputed in canonical table
+uacr_mg_g,label_source,0,derived,derived/administrative,numeric_or_text,,not imputed in canonical table
+target,target,0,derived,derived/administrative,numeric_or_text,,not imputed in canonical table
