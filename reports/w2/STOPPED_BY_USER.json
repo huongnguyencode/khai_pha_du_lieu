@@ -1,0 +1,20 @@
+{
+  "status": "completed",
+  "stopped_at": "2026-10-31T17:23:36+07:00",
+  "training_exit_code": 130,
+  "completed_outer_folds": 25,
+  "total_outer_folds": 25,
+  "remaining_outer_folds": 0,
+  "temporal_complete": true,
+  "final_model_complete": true,
+  "validation_complete": true,
+  "handoff": "KE_HOACH_VA_TIEN_DO_W2.md",
+  "resume_command": "PYTHONDONTWRITEBYTECODE=1 python3 scripts/07_train_w2.py --repeats 5 --outer 5 --inner 3 --jobs 4",
+  "protocol_hash": "6d5a04f109b7347194b4ecd6d2e8b2a3b2c31d0d8e9c507fea29427f01a9fa07",
+  "resumed_at": "2026-10-31T20:56:13.003441+07:00",
+  "resume_note": "Người dùng yêu cầu chạy tiếp W2; giữ nguyên checkpoint và protocol.",
+  "completed_at": "2026-10-31T21:11:37+07:00",
+  "last_training_exit_code": 0,
+  "report_complete": true,
+  "figures_complete": true
+}

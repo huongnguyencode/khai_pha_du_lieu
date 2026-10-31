@@ -1,0 +1,10 @@
+Bước,Quy tắc đã thực hiện,Mục đích / giới hạn
+Khóa / ghép,SEQN duy nhất từng module; DEMO làm bảng gốc,Ngăn nhân bản dòng khi join
+SAS missing / zero,Missing → NA; zero XPT → đúng 0,Sửa 772 ô zero lỗi ở handoff lịch sử
+Mã câu hỏi,Chỉ giữ code hợp lệ; 777/999 và 7777/9999 theo biến → NA,Không coi từ chối là số đo
+Skip logic,Suy ra không dùng thuốc / không hút / không uống khi đủ nhánh,Không gán mọi missing thành 0
+Đồng nhất chu kỳ,Albumin cũ: 1.381 + 0.8407 × giá trị gốc; thuốc huyết áp quy đổi,Giữ cùng nghĩa trước tạo nhãn / train
+Nguồn nhãn,Không impute creatinine / albumin để tạo target,Chỉ dùng nhãn từ số đo có thật
+Numeric trong fold,Median train; chia SD train; SD=0 → 1,Không để đơn vị đo chi phối khoảng cách
+Categorical trong fold,Mode train; mismatch chuẩn hóa theo feature gốc,Một biến nhiều mức không được nhiều phiếu
+Bất thường / lệch phải,"Không thấy bước clipping, winsorization, log trong pipeline hiện tại",Không viết các bước chưa thực hiện

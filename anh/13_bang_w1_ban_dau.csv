@@ -1,0 +1,5 @@
+Cấu hình,Macro-F1,SD,Balanced accuracy,Accuracy
+M1: Đều / uniform,0.3032,0.0246,0.2934,0.8131
+M2: Đều / distance,0.3417,0.0384,0.325,0.8064
+M3: MI / uniform,0.3127,0.0241,0.2995,0.8144
+M4: MI / distance,0.3438,0.0235,0.3284,0.8059

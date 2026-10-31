@@ -1,0 +1,166 @@
+{
+  "dataset": "Harmonized NHANES 2017-March 2020 and August 2021-August 2023",
+  "rows": 13086,
+  "features": [
+    "RIDAGEYR",
+    "RIAGENDR",
+    "RIDRETH3",
+    "DMDEDUC2",
+    "INDFMPIR",
+    "BMXBMI",
+    "BMXWAIST",
+    "sbp_mean",
+    "dbp_mean",
+    "BPQ020",
+    "BPQ150",
+    "DIQ010",
+    "DIQ160",
+    "current_smoking",
+    "ALQ111",
+    "ALQ121",
+    "ALQ130",
+    "PAD680",
+    "BPQ080",
+    "LBXTC",
+    "LBDHDD",
+    "LBXSUA",
+    "LBXHGB"
+  ],
+  "feature_count": 23,
+  "cycle_rows": {
+    "2017-2020": 7743,
+    "2021-2023": 5343
+  },
+  "cycle_target_counts": {
+    "2017-2020": {
+      "0": 6368,
+      "1": 757,
+      "2": 382,
+      "3": 236
+    },
+    "2021-2023": {
+      "0": 4418,
+      "1": 471,
+      "2": 311,
+      "3": 143
+    }
+  },
+  "albumin_harmonization": {
+    "applied_to": "2017-2020 URXUMA",
+    "common_scale": "2021-2023 LC-MS/MS",
+    "formula": "URXUMA_harmonized = 1.381 + 0.8407 * URXUMA_original",
+    "source": "CDC ALB_CR_L analytic notes"
+  },
+  "bp_medication_harmonization": "BPQ050A/BPQ040A/BPQ020 -> BPQ150-compatible current-use variable",
+  "excluded_primary_feature": "moderate_freq_week (measurement instrument not equivalent across cycles)",
+  "raw_old_files": {
+    "P_DEMO.xpt": {
+      "rows": 15560,
+      "sha256": "2e46c6c26bf77cd8989f64011ace12cbf42c0f3e03414eb59acc5328c8f87913"
+    },
+    "P_BIOPRO.xpt": {
+      "rows": 10409,
+      "sha256": "f242cb9f9da5787f77d81ffb02822350e01cea4adf072d23bc96eb008182010c"
+    },
+    "P_ALB_CR.xpt": {
+      "rows": 13027,
+      "sha256": "c493f6b74cc0608bb7083b92e074fc3070b9e614fd5e1e34d0ce943e0f6116bf"
+    },
+    "P_BMX.xpt": {
+      "rows": 14300,
+      "sha256": "7038d0da3169420a4a3cbaec09ac586a701b38e1c7b925431b60e13ac24fed66"
+    },
+    "P_BPXO.xpt": {
+      "rows": 11656,
+      "sha256": "5edbcb81e99fe8dad38deb8b642570278b200c525d88ffa29ae3ceb4dd38bde4"
+    },
+    "P_BPQ.xpt": {
+      "rows": 10195,
+      "sha256": "88af3557dd185cee2533c94c5302b361e89a54eb50754704f35d4e8120868c02"
+    },
+    "P_DIQ.xpt": {
+      "rows": 14986,
+      "sha256": "79153f799fc2171792771c4aa250029c62807f14915f1f81405b03233b1e5ae3"
+    },
+    "P_SMQ.xpt": {
+      "rows": 11137,
+      "sha256": "29b7f6c59ab570c042c866312f0eb4329009e85fadbda6f9427a8bf31ecb3a3f"
+    },
+    "P_ALQ.xpt": {
+      "rows": 8965,
+      "sha256": "feb3f25e06c6a3627d5699523d26e2ff82a4767109b15665e9eae93b3b38e722"
+    },
+    "P_PAQ.xpt": {
+      "rows": 9693,
+      "sha256": "d0e13cebf96181949e983ab58d14c58689e801e8711d366d2b5daab3c7b9ee65"
+    },
+    "P_TCHOL.xpt": {
+      "rows": 12198,
+      "sha256": "759cd9c408b5d1b91f6cfb5d5e67920a301f7478c0e90ce7adf4bbd277a45ac8"
+    },
+    "P_HDL.xpt": {
+      "rows": 12198,
+      "sha256": "04a344f00fe34b3dc4202ee9e47cf61e67d1f985d7c9ece228e25caa85c7fbd7"
+    },
+    "P_CBC.xpt": {
+      "rows": 13772,
+      "sha256": "8a910eacc0fad8d3b817bb01699c5d90761c60be3b2daaaf025396b58de96ef8"
+    }
+  },
+  "missing_counts_by_cycle": {
+    "2017-2020": {
+      "RIDAGEYR": 0,
+      "RIAGENDR": 0,
+      "RIDRETH3": 0,
+      "DMDEDUC2": 8,
+      "INDFMPIR": 1054,
+      "BMXBMI": 89,
+      "BMXWAIST": 305,
+      "sbp_mean": 703,
+      "dbp_mean": 703,
+      "BPQ020": 12,
+      "BPQ150": 15,
+      "DIQ010": 3,
+      "DIQ160": 1428,
+      "current_smoking": 4,
+      "ALQ111": 433,
+      "ALQ121": 435,
+      "ALQ130": 1904,
+      "PAD680": 61,
+      "BPQ080": 51,
+      "LBXTC": 4,
+      "LBDHDD": 4,
+      "LBXSUA": 2,
+      "LBXHGB": 4
+    },
+    "2021-2023": {
+      "RIDAGEYR": 0,
+      "RIAGENDR": 0,
+      "RIDRETH3": 0,
+      "DMDEDUC2": 2,
+      "INDFMPIR": 678,
+      "BMXBMI": 52,
+      "BMXWAIST": 203,
+      "sbp_mean": 138,
+      "dbp_mean": 138,
+      "BPQ020": 3,
+      "BPQ150": 5,
+      "DIQ010": 0,
+      "DIQ160": 939,
+      "current_smoking": 7,
+      "ALQ111": 669,
+      "ALQ121": 669,
+      "ALQ130": 1422,
+      "PAD680": 37,
+      "BPQ080": 32,
+      "LBXTC": 0,
+      "LBDHDD": 0,
+      "LBXSUA": 0,
+      "LBXHGB": 22
+    }
+  },
+  "output": {
+    "path": "data/processed/nhanes_combined_2017_2023.csv",
+    "sha256": "baa538d5e9fd369d3577b7157c58f76322cacf38541d0feeae163032ad9357bd"
+  }
+}

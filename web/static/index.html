@@ -1,0 +1,60 @@
+<!doctype html>
+<html lang="vi">
+<head>
+  <meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+  <meta name="description" content="Sàng lọc dấu hiệu sức khỏe thận bằng mô hình nghiên cứu W2. Nhập từng người hoặc phân tích file Excel.">
+  <title>Thận An — Sàng lọc sức khỏe thận</title>
+  <link rel="icon" href="/favicon.svg" type="image/svg+xml"><link rel="stylesheet" href="/styles.css">
+  <script src="/app.js" defer></script>
+</head>
+<body>
+<a class="skip" href="#main">Đến nội dung chính</a>
+<aside class="sidebar">
+  <a class="brand" href="/" aria-label="Thận An, trang chủ"><img src="/favicon.svg" width="42" height="42" alt=""><span>Thận An<small>Hiểu để chăm sóc tốt hơn</small></span></a>
+  <nav class="navigation" aria-label="Chức năng chính">
+    <button class="nav-button active" data-mode="single" aria-current="page"><svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="12" cy="7" r="4"/><path d="M4 21v-3a8 8 0 0 1 16 0v3"/></svg><span>Từng người</span></button>
+    <button class="nav-button" data-mode="batch"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M4 3h11l5 5v13H4zM14 3v6h6M8 13h8M8 17h8"/></svg><span>Danh sách Excel</span></button>
+    <button class="nav-button" id="guide-button"><svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="12" cy="12" r="9"/><path d="M10 8a2.5 2.5 0 1 1 3 4v3m-1 3v.1"/></svg><span>Cách đọc kết quả</span></button>
+  </nav>
+  <div class="sidebar-note"><span class="small-mark">+</span><h2>Mỗi thông tin đều có ý nghĩa.</h2><p>Nhập đúng đơn vị. Để trống những điều bạn chưa biết.</p></div>
+  <div class="sidebar-bottom"><span class="status-dot" id="status-dot"></span><span id="health-status">Đang kiểm tra hệ thống…</span></div>
+</aside>
+<div class="workspace">
+<header class="topbar"><span>Không gian sàng lọc <span class="slash">/</span> <strong id="breadcrumb">Từng người</strong></span><span class="local-badge"><span class="local-icon">⌂</span> Xử lý tại máy</span></header>
+<main id="main">
+  <section class="page-heading"><div><p class="intro">Chăm sóc bắt đầu từ sự thấu hiểu</p><h1>Sàng lọc sức khỏe thận</h1><p class="lead">Nhìn rõ hai dấu hiệu: khả năng lọc của thận và albumin niệu.</p></div><div class="model-label">Mô hình nghiên cứu <strong>W2</strong></div></section>
+  <div class="notice"><svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="12" cy="12" r="9"/><path d="M12 11v6m0-10v1"/></svg><p>Kết quả là <strong>gợi ý sàng lọc</strong>, không phải chẩn đoán bệnh. Cần xét nghiệm và đánh giá y tế để xác nhận.</p></div>
+  <div id="global-error" class="error-box" role="alert" hidden></div>
+  <section id="single-view" aria-labelledby="single-title">
+    <div class="individual-layout">
+      <div class="input-panel">
+        <div class="panel-heading"><div><h2 id="single-title">Thông tin một người</h2><p>Tuổi và giới tính bắt buộc. Cần ít nhất <span id="minimum">12</span>/23 thông tin.</p></div><button type="button" class="text-button" id="fill-demo">Điền ví dụ</button></div>
+        <div class="example-banner" id="example-banner" hidden>Dữ liệu minh họa — không phải hồ sơ của người bệnh.</div>
+        <form id="prediction-form" novalidate>
+          <div class="identity-row"><label>Mã hồ sơ <input id="person-id" name="id" maxlength="120" placeholder="Ví dụ: HS-001" autocomplete="off"></label><label>Họ và tên <span class="optional">(tùy chọn)</span><input id="person-name" name="name" maxlength="120" placeholder="Nhập tên để dễ đối chiếu" autocomplete="off"></label></div>
+          <div id="feature-fields"><p class="loading-text">Đang tải các trường thông tin…</p></div>
+          <div class="form-footer"><div><strong id="filled-count">0/23</strong><span> thông tin đã nhập</span></div><div class="form-actions"><button type="button" class="secondary-button" id="reset-form">Nhập lại</button><button type="submit" class="primary-button" id="predict-single">Phân tích dấu hiệu <span aria-hidden="true">↗</span></button></div></div>
+        </form>
+      </div>
+      <aside class="result-panel" aria-label="Kết quả từng người" aria-live="polite">
+        <div class="result-heading"><h2>Kết quả sàng lọc</h2><span class="subtle-tag" id="result-tag">Chưa phân tích</span></div>
+        <div id="single-empty" class="empty-result"><div class="kidney-illustration"><svg viewBox="0 0 220 180" aria-hidden="true"><ellipse cx="110" cy="156" rx="70" ry="9" fill="#e3eeed"/><path d="M85 31c-33-11-58 16-52 54 5 32 29 48 47 30 14-14 7-28-6-32-12-4-10-13 2-19 12-5 22-24 9-33z" fill="#9ec8c0"/><path d="M135 31c33-11 58 16 52 54-5 32-29 48-47 30-14-14-7-28 6-32 12-4 10-13-2-19-12-5-22-24-9-33z" fill="#c8ded9"/><path d="M88 85c14 7 7 42 11 61m33-61c-14 7-7 42-11 61" stroke="#547e79" stroke-width="5" fill="none" stroke-linecap="round"/><path d="M104 54h12m-6-6v12" stroke="#33796c" stroke-width="3" stroke-linecap="round"/></svg></div><h3>Thông tin rõ hơn.<br>Chăm sóc chủ động hơn.</h3><p>Nhập thông tin bên cạnh để nhận kết quả và gợi ý chăm sóc khi có dấu hiệu.</p><div class="two-axis"><span><i class="axis-icon">G</i> Khả năng lọc</span><span><i class="axis-icon light">A</i> Albumin niệu</span></div></div>
+        <div id="single-result" hidden></div>
+        <div class="result-footnote">Mô hình được phát triển trên khảo sát người trưởng thành tại Hoa Kỳ; hiệu quả trên quần thể Việt Nam chưa được xác nhận.</div>
+      </aside>
+    </div>
+  </section>
+  <section id="batch-view" aria-labelledby="batch-title" hidden>
+    <div class="batch-intro"><div><h2 id="batch-title">Phân tích danh sách Excel</h2><p>Mỗi dòng là một người. Nhận kết quả riêng, rồi tải file tổng hợp.</p></div><a class="secondary-button" href="/api/template" download>Tải file Excel mẫu <span aria-hidden="true">↓</span></a></div>
+    <div class="batch-upload"><div class="drop-zone" id="drop-zone"><svg viewBox="0 0 48 48" aria-hidden="true"><path d="M10 4h20l8 9v31H10zM29 4v10h9M24 35V21m-6 6 6-6 6 6"/></svg><h3>Kéo file Excel vào đây</h3><p>hoặc <label class="file-label" for="excel-file">chọn file từ máy</label></p><input id="excel-file" type="file" accept=".xlsx" aria-label="Chọn file Excel"><small>.xlsx · tối đa 10 MB · 1.000 người mỗi lần</small></div><div class="upload-instructions"><h3>Chuẩn bị dữ liệu</h3><ol><li>Tải file mẫu và giữ nguyên tên 23 cột.</li><li>Điền số và mã theo sheet <strong>Tu_dien</strong>. Ô chưa biết để trống.</li><li>Xóa dòng ví dụ; dùng sheet <strong>Du_lieu</strong> cho hồ sơ thật.</li></ol><p class="privacy-note">File được xử lý trong bộ nhớ; ứng dụng không lưu hồ sơ tải lên.</p></div></div>
+    <div class="selected-file" id="selected-file" hidden><div><strong id="file-name"></strong><small id="file-size"></small></div><button class="text-button" id="remove-file">Bỏ file</button></div>
+    <div class="batch-action"><p id="batch-status" role="status">Chọn file để bắt đầu phân tích.</p><button class="primary-button" id="predict-batch" disabled>Phân tích danh sách <span aria-hidden="true">↗</span></button></div>
+    <section id="batch-results" hidden aria-label="Kết quả danh sách"><div class="results-summary" id="batch-counts"></div><div class="table-toolbar"><div class="filter-tabs" role="group" aria-label="Lọc kết quả"><button class="filter active" data-filter="all">Tất cả</button><button class="filter" data-filter="flagged">Có dấu hiệu</button><button class="filter" data-filter="unflagged">Chưa gợi ý</button><button class="filter" data-filter="invalid">Lỗi dữ liệu</button></div><button class="secondary-button" id="export-batch">Tải kết quả .xlsx ↓</button></div><label class="search-label"><span>Tìm mã hoặc tên</span><input type="search" id="search-results" placeholder="Nhập mã hồ sơ hoặc họ tên…"></label><div class="table-scroll"><table class="results-table"><thead><tr><th scope="col">Dòng Excel</th><th scope="col">Mã / Họ tên</th><th scope="col">Kết quả</th><th scope="col">Dữ liệu</th><th scope="col">Chi tiết</th></tr></thead><tbody id="result-rows"></tbody></table></div><div class="pagination"><span id="page-label"></span><div><button class="secondary-button" id="prev-page">Trước</button><button class="secondary-button" id="next-page">Sau</button></div></div><p class="batch-note">“Chưa gợi ý” là kết quả theo hai trục của mô hình, không xác nhận hoàn toàn không có bệnh. Dòng lỗi chưa được dự đoán.</p></section>
+  </section>
+  <footer class="page-footer"><span>Thận An · Công cụ hỗ trợ nghiên cứu</span><button class="text-button" id="footer-guide">Hiểu đúng kết quả</button></footer>
+</main>
+</div>
+<div id="toast" class="toast" role="status" hidden></div>
+<dialog id="detail-dialog"><div class="dialog-header"><h2 id="dialog-title">Chi tiết kết quả</h2><button class="close-button" id="close-dialog" aria-label="Đóng">×</button></div><div id="dialog-content"></div></dialog>
+</body>
+</html>

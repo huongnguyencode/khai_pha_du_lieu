@@ -1,0 +1,20 @@
+FROM python:3.12-slim
+ENV PYTHONDONTWRITEBYTECODE=1 \
+    PYTHONUNBUFFERED=1 \
+    PYTHONPATH=/app/src:/app \
+    OPENBLAS_NUM_THREADS=1 \
+    OMP_NUM_THREADS=1 \
+    MKL_NUM_THREADS=1
+WORKDIR /app
+COPY requirements.web.txt /app/requirements.web.txt
+RUN pip install --no-cache-dir -r requirements.web.txt \
+    && groupadd --gid 10001 nhanes \
+    && useradd --uid 10001 --gid nhanes --no-create-home nhanes
+COPY src /app/src
+COPY models/nhanes_w2.pkl /app/models/nhanes_w2.pkl
+COPY web /app/web
+USER 10001:10001
+EXPOSE 8090
+HEALTHCHECK --interval=30s --timeout=5s --start-period=20s --retries=3 \
+    CMD python -c "import urllib.request; urllib.request.urlopen('http://127.0.0.1:8090/health', timeout=4)" || exit 1
+CMD ["gunicorn", "--bind", "0.0.0.0:8090", "--workers", "1", "--threads", "2", "--timeout", "120", "--worker-tmp-dir", "/tmp", "--access-logfile", "-", "--error-logfile", "-", "web.app:application"]

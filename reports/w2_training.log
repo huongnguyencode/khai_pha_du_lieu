@@ -1,0 +1,54 @@
+repeat=1 fold=2 seconds=231.9
+repeat=1 fold=1 seconds=235.1
+repeat=1 fold=4 seconds=238.2
+repeat=1 fold=3 seconds=239.1
+repeat=2 fold=3 seconds=194.3
+repeat=2 fold=2 seconds=208.9
+repeat=1 fold=5 seconds=218.5
+repeat=2 fold=1 seconds=246.9
+repeat=2 fold=5 seconds=270.8
+repeat=2 fold=4 seconds=290.7
+repeat=3 fold=1 seconds=282.5
+repeat=3 fold=2 seconds=265.7
+repeat=3 fold=5 seconds=174.1
+repeat=4 fold=1 seconds=174.7
+repeat=3 fold=3 seconds=181.1
+repeat=3 fold=4 seconds=190.1
+repeat=4 fold=2 seconds=220.2
+repeat=4 fold=5 seconds=212.8
+repeat=4 fold=3 seconds=234.7
+repeat=4 fold=4 seconds=268.3
+repeat=5 fold=1 seconds=188.0
+repeat=5 fold=3 seconds=181.1
+repeat=5 fold=2 seconds=196.3
+repeat=5 fold=4 seconds=204.2
+repeat=5 fold=5 seconds=101.3
+Starting temporal selection
+Starting full-cohort selection
+[
+  {
+    "model": "A_W1_original",
+    "macro_f1": 0.41128805932800744,
+    "accuracy": 0.725780942474997
+  },
+  {
+    "model": "B_joint_thresholds",
+    "macro_f1": 0.4317187639602033,
+    "accuracy": 0.7781909374677539
+  },
+  {
+    "model": "C_joint_K_alpha",
+    "macro_f1": 0.4455903686150115,
+    "accuracy": 0.7981967581886964
+  },
+  {
+    "model": "D_W2_groups",
+    "macro_f1": 0.4461973414056067,
+    "accuracy": 0.7955227738043825
+  },
+  {
+    "model": "E_W2_groups_regularized",
+    "macro_f1": 0.4446091464623583,
+    "accuracy": 0.7980751698972351
+  }
+]

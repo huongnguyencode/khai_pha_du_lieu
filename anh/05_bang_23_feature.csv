@@ -1,0 +1,24 @@
+Feature,Ý nghĩa,Kiểu trong mô hình,Nhóm nội dung
+RIDAGEYR,Tuổi (năm),Số,Nhân khẩu
+RIAGENDR,Giới tính khảo sát,Loại,Nhân khẩu
+RIDRETH3,Nhóm chủng tộc / sắc tộc,Loại,Xã hội
+DMDEDUC2,Trình độ học vấn,Loại,Xã hội
+INDFMPIR,Tỷ số thu nhập / ngưỡng nghèo,Số,Xã hội
+BMXBMI,BMI (kg/m²),Số,Cơ thể
+BMXWAIST,Vòng eo (cm),Số,Cơ thể
+sbp_mean,Huyết áp tâm thu trung bình (mmHg),Số,Huyết áp
+dbp_mean,Huyết áp tâm trương trung bình (mmHg),Số,Huyết áp
+BPQ020,Từng được thông báo tăng huyết áp,Loại,Huyết áp
+BPQ150,Đang dùng thuốc huyết áp (đã đồng nhất),Loại,Huyết áp
+DIQ010,Từng được thông báo đái tháo đường,Loại,Tiền sử
+DIQ160,Từng được thông báo tiền đái tháo đường,Loại,Tiền sử
+current_smoking,Hiện hút thuốc (dẫn xuất),Loại,Lối sống
+ALQ111,Từng uống rượu trong đời,Loại,Lối sống
+ALQ121,Mã tần suất uống rượu 12 tháng,Loại,Lối sống
+ALQ130,Số ly trung bình khi uống rượu,Số,Lối sống
+PAD680,Thời gian ngồi (phút/ngày),Số,Lối sống
+BPQ080,Từng được thông báo cholesterol cao,Loại,Tiền sử
+LBXTC,Cholesterol toàn phần (mg/dL),Số,Xét nghiệm
+LBDHDD,HDL cholesterol (mg/dL),Số,Xét nghiệm
+LBXSUA,Acid uric máu (mg/dL),Số,Xét nghiệm
+LBXHGB,Hemoglobin (g/dL),Số,Xét nghiệm

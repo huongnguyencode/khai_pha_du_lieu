@@ -1,0 +1,5 @@
+Target,"eGFR (mL/phút/1,73 m²)",uACR (mg/g),Diễn giải,G,A
+0,≥ 60,< 30,Không có dấu hiệu theo hai ngưỡng,0,0
+1,≥ 60,≥ 30,Chỉ albumin niệu,0,1
+2,< 60,< 30,Chỉ eGFR thấp,1,0
+3,< 60,≥ 30,Có cả hai dấu hiệu,1,1

@@ -1,0 +1,22 @@
+{
+  "status": "passed",
+  "browser": "Chromium",
+  "networkidle_observed": false,
+  "readiness": "DOMContentLoaded + schema fields + health ready + actual prediction responses",
+  "checks": [
+    "single prediction",
+    "invalid inputs",
+    "normal result has no advice",
+    "XLSX upload, filters, search and download",
+    "positive guidance",
+    "XSS text escaping",
+    "mobile layout",
+    "no JavaScript errors"
+  ],
+  "screenshots": [
+    "web/tests/screenshots/desktop.png",
+    "web/tests/screenshots/mobile.png",
+    "web/tests/screenshots/excel-results.png",
+    "web/tests/screenshots/positive-guidance.png"
+  ]
+}

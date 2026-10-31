@@ -1,0 +1,263 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="851.4pt" height="228.857219pt" viewBox="0 0 851.4 228.857219" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-10-31T23:36:49.846912</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.6.3, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 228.857219 
+L 851.4 228.857219 
+L 851.4 0 
+L 0 0 
+z
+" style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="table_1">
+    <g id="patch_2">
+     <path d="M 7.2 107.527861 
+L 174.6 107.527861 
+L 174.6 52.481306 
+L 7.2 52.481306 
+z
+" style="fill: #17364a; stroke: #dbe3eb; stroke-linejoin: miter"/>
+    </g>
+    <g id="text_1">
+     <text style="fill: #ffffff; font: 700 10.5px 'DejaVu Sans'; text-anchor: middle" x="90.9" y="83.088959" transform="rotate(-0 90.9 83.088959)">Chu kỳ</text>
+    </g>
+    <g id="patch_3">
+     <path d="M 174.6 107.527861 
+L 342 107.527861 
+L 342 52.481306 
+L 174.6 52.481306 
+z
+" style="fill: #17364a; stroke: #dbe3eb; stroke-linejoin: miter"/>
+    </g>
+    <g id="text_2">
+     <text style="fill: #ffffff; font: 700 10.5px 'DejaVu Sans'; text-anchor: middle" x="258.3" y="83.452357" transform="rotate(-0 258.3 83.452357)">Số dòng DEMO</text>
+    </g>
+    <g id="patch_4">
+     <path d="M 342 107.527861 
+L 509.4 107.527861 
+L 509.4 52.481306 
+L 342 52.481306 
+z
+" style="fill: #17364a; stroke: #dbe3eb; stroke-linejoin: miter"/>
+    </g>
+    <g id="text_3">
+     <text style="fill: #ffffff; font: 700 10.5px 'DejaVu Sans'" transform="translate(384.717188 76.839654)">Đủ điều kiện /</text>
+     <text style="fill: #ffffff; font: 700 10.5px 'DejaVu Sans'" transform="translate(390.540586 90.076545)">nguồn nhãn</text>
+    </g>
+    <g id="patch_5">
+     <path d="M 509.4 107.527861 
+L 676.8 107.527861 
+L 676.8 52.481306 
+L 509.4 52.481306 
+z
+" style="fill: #17364a; stroke: #dbe3eb; stroke-linejoin: miter"/>
+    </g>
+    <g id="text_4">
+     <text style="fill: #ffffff; font: 700 10.5px 'DejaVu Sans'; text-anchor: middle" x="593.1" y="83.070912" transform="rotate(-0 593.1 83.070912)">Không vào cohort</text>
+    </g>
+    <g id="patch_6">
+     <path d="M 676.8 107.527861 
+L 844.2 107.527861 
+L 844.2 52.481306 
+L 676.8 52.481306 
+z
+" style="fill: #17364a; stroke: #dbe3eb; stroke-linejoin: miter"/>
+    </g>
+    <g id="text_5">
+     <text style="fill: #ffffff; font: 700 10.5px 'DejaVu Sans'; text-anchor: middle" x="760.5" y="82.901928" transform="rotate(-0 760.5 82.901928)">Số feature</text>
+    </g>
+    <g id="patch_7">
+     <path d="M 7.2 135.051139 
+L 174.6 135.051139 
+L 174.6 107.527861 
+L 7.2 107.527861 
+z
+" style="fill: #eef4f8; stroke: #dbe3eb; stroke-linejoin: miter"/>
+    </g>
+    <g id="text_6">
+     <text style="font: 10.5px 'DejaVu Sans'; text-anchor: start" x="20.592" y="124.186844" transform="rotate(-0 20.592 124.186844)">2017–03/2020</text>
+    </g>
+    <g id="patch_8">
+     <path d="M 174.6 135.051139 
+L 342 135.051139 
+L 342 107.527861 
+L 174.6 107.527861 
+z
+" style="fill: #eef4f8; stroke: #dbe3eb; stroke-linejoin: miter"/>
+    </g>
+    <g id="text_7">
+     <text style="font: 10.5px 'DejaVu Sans'; text-anchor: start" x="187.992" y="124.186844" transform="rotate(-0 187.992 124.186844)">15560</text>
+    </g>
+    <g id="patch_9">
+     <path d="M 342 135.051139 
+L 509.4 135.051139 
+L 509.4 107.527861 
+L 342 107.527861 
+z
+" style="fill: #eef4f8; stroke: #dbe3eb; stroke-linejoin: miter"/>
+    </g>
+    <g id="text_8">
+     <text style="font: 10.5px 'DejaVu Sans'; text-anchor: start" x="355.392" y="124.186844" transform="rotate(-0 355.392 124.186844)">7743</text>
+    </g>
+    <g id="patch_10">
+     <path d="M 509.4 135.051139 
+L 676.8 135.051139 
+L 676.8 107.527861 
+L 509.4 107.527861 
+z
+" style="fill: #eef4f8; stroke: #dbe3eb; stroke-linejoin: miter"/>
+    </g>
+    <g id="text_9">
+     <text style="font: 10.5px 'DejaVu Sans'; text-anchor: start" x="522.792" y="124.186844" transform="rotate(-0 522.792 124.186844)">7817</text>
+    </g>
+    <g id="patch_11">
+     <path d="M 676.8 135.051139 
+L 844.2 135.051139 
+L 844.2 107.527861 
+L 676.8 107.527861 
+z
+" style="fill: #eef4f8; stroke: #dbe3eb; stroke-linejoin: miter"/>
+    </g>
+    <g id="text_10">
+     <text style="font: 10.5px 'DejaVu Sans'; text-anchor: start" x="690.192" y="124.186844" transform="rotate(-0 690.192 124.186844)">23</text>
+    </g>
+    <g id="patch_12">
+     <path d="M 7.2 162.574416 
+L 174.6 162.574416 
+L 174.6 135.051139 
+L 7.2 135.051139 
+z
+" style="fill: #ffffff; stroke: #dbe3eb; stroke-linejoin: miter"/>
+    </g>
+    <g id="text_11">
+     <text style="font: 10.5px 'DejaVu Sans'; text-anchor: start" x="20.592" y="151.710121" transform="rotate(-0 20.592 151.710121)">08/2021–08/2023</text>
+    </g>
+    <g id="patch_13">
+     <path d="M 174.6 162.574416 
+L 342 162.574416 
+L 342 135.051139 
+L 174.6 135.051139 
+z
+" style="fill: #ffffff; stroke: #dbe3eb; stroke-linejoin: miter"/>
+    </g>
+    <g id="text_12">
+     <text style="font: 10.5px 'DejaVu Sans'; text-anchor: start" x="187.992" y="151.710121" transform="rotate(-0 187.992 151.710121)">11933</text>
+    </g>
+    <g id="patch_14">
+     <path d="M 342 162.574416 
+L 509.4 162.574416 
+L 509.4 135.051139 
+L 342 135.051139 
+z
+" style="fill: #ffffff; stroke: #dbe3eb; stroke-linejoin: miter"/>
+    </g>
+    <g id="text_13">
+     <text style="font: 10.5px 'DejaVu Sans'; text-anchor: start" x="355.392" y="151.710121" transform="rotate(-0 355.392 151.710121)">5343</text>
+    </g>
+    <g id="patch_15">
+     <path d="M 509.4 162.574416 
+L 676.8 162.574416 
+L 676.8 135.051139 
+L 509.4 135.051139 
+z
+" style="fill: #ffffff; stroke: #dbe3eb; stroke-linejoin: miter"/>
+    </g>
+    <g id="text_14">
+     <text style="font: 10.5px 'DejaVu Sans'; text-anchor: start" x="522.792" y="151.710121" transform="rotate(-0 522.792 151.710121)">6590</text>
+    </g>
+    <g id="patch_16">
+     <path d="M 676.8 162.574416 
+L 844.2 162.574416 
+L 844.2 135.051139 
+L 676.8 135.051139 
+z
+" style="fill: #ffffff; stroke: #dbe3eb; stroke-linejoin: miter"/>
+    </g>
+    <g id="text_15">
+     <text style="font: 10.5px 'DejaVu Sans'; text-anchor: start" x="690.192" y="152.163754" transform="rotate(-0 690.192 152.163754)">24 lịch sử; 23 kết hợp</text>
+    </g>
+    <g id="patch_17">
+     <path d="M 7.2 190.097694 
+L 174.6 190.097694 
+L 174.6 162.574416 
+L 7.2 162.574416 
+z
+" style="fill: #eef4f8; stroke: #dbe3eb; stroke-linejoin: miter"/>
+    </g>
+    <g id="text_16">
+     <text style="font: 10.5px 'DejaVu Sans'; text-anchor: start" x="20.592" y="179.687031" transform="rotate(-0 20.592 179.687031)">Kết hợp</text>
+    </g>
+    <g id="patch_18">
+     <path d="M 174.6 190.097694 
+L 342 190.097694 
+L 342 162.574416 
+L 174.6 162.574416 
+z
+" style="fill: #eef4f8; stroke: #dbe3eb; stroke-linejoin: miter"/>
+    </g>
+    <g id="text_17">
+     <text style="font: 10.5px 'DejaVu Sans'; text-anchor: start" x="187.992" y="179.233399" transform="rotate(-0 187.992 179.233399)">27493</text>
+    </g>
+    <g id="patch_19">
+     <path d="M 342 190.097694 
+L 509.4 190.097694 
+L 509.4 162.574416 
+L 342 162.574416 
+z
+" style="fill: #eef4f8; stroke: #dbe3eb; stroke-linejoin: miter"/>
+    </g>
+    <g id="text_18">
+     <text style="font: 10.5px 'DejaVu Sans'; text-anchor: start" x="355.392" y="179.233399" transform="rotate(-0 355.392 179.233399)">13086</text>
+    </g>
+    <g id="patch_20">
+     <path d="M 509.4 190.097694 
+L 676.8 190.097694 
+L 676.8 162.574416 
+L 509.4 162.574416 
+z
+" style="fill: #eef4f8; stroke: #dbe3eb; stroke-linejoin: miter"/>
+    </g>
+    <g id="text_19">
+     <text style="font: 10.5px 'DejaVu Sans'; text-anchor: start" x="522.792" y="179.233399" transform="rotate(-0 522.792 179.233399)">14407</text>
+    </g>
+    <g id="patch_21">
+     <path d="M 676.8 190.097694 
+L 844.2 190.097694 
+L 844.2 162.574416 
+L 676.8 162.574416 
+z
+" style="fill: #eef4f8; stroke: #dbe3eb; stroke-linejoin: miter"/>
+    </g>
+    <g id="text_20">
+     <text style="font: 10.5px 'DejaVu Sans'; text-anchor: start" x="690.192" y="179.233399" transform="rotate(-0 690.192 179.233399)">23</text>
+    </g>
+   </g>
+   <g id="text_21">
+    <text style="font: 700 15px 'DejaVu Sans'; text-anchor: start" x="7.2" y="20.2875" transform="rotate(-0 7.2 20.2875)">Bảng 2. Từ dữ liệu khảo sát đến cohort mô hình</text>
+   </g>
+  </g>
+  <g id="text_22">
+   <text style="fill: #425466; font: 9px 'DejaVu Sans'; text-anchor: start" x="7.2" y="219.7855" transform="rotate(-0 7.2 219.7855)">Không vào cohort gồm dưới 20 tuổi hoặc không đủ điều kiện nhãn; không đồng nghĩa tất cả đều thiếu xét nghiệm.</text>
+  </g>
+ </g>
+</svg>

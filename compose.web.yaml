@@ -1,0 +1,17 @@
+services:
+  nhanes-web:
+    build:
+      context: .
+      dockerfile: Dockerfile.web
+    image: nhanes-w2-web:local
+    ports:
+      - "127.0.0.1:8090:8090"
+    restart: unless-stopped
+    init: true
+    read_only: true
+    tmpfs:
+      - /tmp:size=64m,mode=1777
+    cap_drop:
+      - ALL
+    security_opt:
+      - no-new-privileges:true

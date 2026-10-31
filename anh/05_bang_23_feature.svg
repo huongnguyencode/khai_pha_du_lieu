@@ -1,0 +1,1099 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="851.4pt" height="564.730938pt" viewBox="0 0 851.4 564.730938" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-10-31T23:36:51.472116</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.6.3, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 564.730938 
+L 851.4 564.730938 
+L 851.4 0 
+L 0 0 
+z
+" style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="table_1">
+    <g id="patch_2">
+     <path d="M 7.2 83.967665 
+L 157.86 83.967665 
+L 157.86 48.430226 
+L 7.2 48.430226 
+z
+" style="fill: #17364a; stroke: #dbe3eb; stroke-linejoin: miter"/>
+    </g>
+    <g id="text_1">
+     <text style="fill: #ffffff; font: 700 10.5px 'DejaVu Sans'; text-anchor: middle" x="82.53" y="69.096289" transform="rotate(-0 82.53 69.096289)">Feature</text>
+    </g>
+    <g id="patch_3">
+     <path d="M 157.86 83.967665 
+L 567.99 83.967665 
+L 567.99 48.430226 
+L 157.86 48.430226 
+z
+" style="fill: #17364a; stroke: #dbe3eb; stroke-linejoin: miter"/>
+    </g>
+    <g id="text_2">
+     <text style="fill: #ffffff; font: 700 10.5px 'DejaVu Sans'; text-anchor: middle" x="362.925" y="69.934648" transform="rotate(-0 362.925 69.934648)">Ý nghĩa</text>
+    </g>
+    <g id="patch_4">
+     <path d="M 567.99 83.967665 
+L 701.91 83.967665 
+L 701.91 48.430226 
+L 567.99 48.430226 
+z
+" style="fill: #17364a; stroke: #dbe3eb; stroke-linejoin: miter"/>
+    </g>
+    <g id="text_3">
+     <text style="fill: #ffffff; font: 700 10.5px 'DejaVu Sans'" transform="translate(592.850742 63.972945)">Kiểu trong mô</text>
+     <text style="fill: #ffffff; font: 700 10.5px 'DejaVu Sans'" transform="translate(621.938203 75.81268)">hình</text>
+    </g>
+    <g id="patch_5">
+     <path d="M 701.91 83.967665 
+L 844.2 83.967665 
+L 844.2 48.430226 
+L 701.91 48.430226 
+z
+" style="fill: #17364a; stroke: #dbe3eb; stroke-linejoin: miter"/>
+    </g>
+    <g id="text_4">
+     <text style="fill: #ffffff; font: 700 10.5px 'DejaVu Sans'; text-anchor: middle" x="773.055" y="69.265273" transform="rotate(-0 773.055 69.265273)">Nhóm nội dung</text>
+    </g>
+    <g id="patch_6">
+     <path d="M 7.2 101.736384 
+L 157.86 101.736384 
+L 157.86 83.967665 
+L 7.2 83.967665 
+z
+" style="fill: #eef4f8; stroke: #dbe3eb; stroke-linejoin: miter"/>
+    </g>
+    <g id="text_5">
+     <text style="font: 10.5px 'DejaVu Sans'; text-anchor: start" x="19.2528" y="95.749368" transform="rotate(-0 19.2528 95.749368)">RIDAGEYR</text>
+    </g>
+    <g id="patch_7">
+     <path d="M 157.86 101.736384 
+L 567.99 101.736384 
+L 567.99 83.967665 
+L 157.86 83.967665 
+z
+" style="fill: #eef4f8; stroke: #dbe3eb; stroke-linejoin: miter"/>
+    </g>
+    <g id="text_6">
+     <text style="font: 10.5px 'DejaVu Sans'; text-anchor: start" x="190.6704" y="95.887181" transform="rotate(-0 190.6704 95.887181)">Tuổi (năm)</text>
+    </g>
+    <g id="patch_8">
+     <path d="M 567.99 101.736384 
+L 701.91 101.736384 
+L 701.91 83.967665 
+L 567.99 83.967665 
+z
+" style="fill: #eef4f8; stroke: #dbe3eb; stroke-linejoin: miter"/>
+    </g>
+    <g id="text_7">
+     <text style="font: 10.5px 'DejaVu Sans'; text-anchor: start" x="578.7036" y="95.749368" transform="rotate(-0 578.7036 95.749368)">Số</text>
+    </g>
+    <g id="patch_9">
+     <path d="M 701.91 101.736384 
+L 844.2 101.736384 
+L 844.2 83.967665 
+L 701.91 83.967665 
+z
+" style="fill: #eef4f8; stroke: #dbe3eb; stroke-linejoin: miter"/>
+    </g>
+    <g id="text_8">
+     <text style="font: 10.5px 'DejaVu Sans'; text-anchor: start" x="713.2932" y="95.749368" transform="rotate(-0 713.2932 95.749368)">Nhân khẩu</text>
+    </g>
+    <g id="patch_10">
+     <path d="M 7.2 119.505104 
+L 157.86 119.505104 
+L 157.86 101.736384 
+L 7.2 101.736384 
+z
+" style="fill: #ffffff; stroke: #dbe3eb; stroke-linejoin: miter"/>
+    </g>
+    <g id="text_9">
+     <text style="font: 10.5px 'DejaVu Sans'; text-anchor: start" x="19.2528" y="113.518088" transform="rotate(-0 19.2528 113.518088)">RIAGENDR</text>
+    </g>
+    <g id="patch_11">
+     <path d="M 157.86 119.505104 
+L 567.99 119.505104 
+L 567.99 101.736384 
+L 157.86 101.736384 
+z
+" style="fill: #ffffff; stroke: #dbe3eb; stroke-linejoin: miter"/>
+    </g>
+    <g id="text_10">
+     <text style="font: 10.5px 'DejaVu Sans'; text-anchor: start" x="190.6704" y="113.518088" transform="rotate(-0 190.6704 113.518088)">Giới tính khảo sát</text>
+    </g>
+    <g id="patch_12">
+     <path d="M 567.99 119.505104 
+L 701.91 119.505104 
+L 701.91 101.736384 
+L 567.99 101.736384 
+z
+" style="fill: #ffffff; stroke: #dbe3eb; stroke-linejoin: miter"/>
+    </g>
+    <g id="text_11">
+     <text style="font: 10.5px 'DejaVu Sans'; text-anchor: start" x="578.7036" y="113.518088" transform="rotate(-0 578.7036 113.518088)">Loại</text>
+    </g>
+    <g id="patch_13">
+     <path d="M 701.91 119.505104 
+L 844.2 119.505104 
+L 844.2 101.736384 
+L 701.91 101.736384 
+z
+" style="fill: #ffffff; stroke: #dbe3eb; stroke-linejoin: miter"/>
+    </g>
+    <g id="text_12">
+     <text style="font: 10.5px 'DejaVu Sans'; text-anchor: start" x="713.2932" y="113.518088" transform="rotate(-0 713.2932 113.518088)">Nhân khẩu</text>
+    </g>
+    <g id="patch_14">
+     <path d="M 7.2 137.273823 
+L 157.86 137.273823 
+L 157.86 119.505104 
+L 7.2 119.505104 
+z
+" style="fill: #eef4f8; stroke: #dbe3eb; stroke-linejoin: miter"/>
+    </g>
+    <g id="text_13">
+     <text style="font: 10.5px 'DejaVu Sans'; text-anchor: start" x="19.2528" y="131.286807" transform="rotate(-0 19.2528 131.286807)">RIDRETH3</text>
+    </g>
+    <g id="patch_15">
+     <path d="M 157.86 137.273823 
+L 567.99 137.273823 
+L 567.99 119.505104 
+L 157.86 119.505104 
+z
+" style="fill: #eef4f8; stroke: #dbe3eb; stroke-linejoin: miter"/>
+    </g>
+    <g id="text_14">
+     <text style="font: 10.5px 'DejaVu Sans'; text-anchor: start" x="190.6704" y="131.902041" transform="rotate(-0 190.6704 131.902041)">Nhóm chủng tộc / sắc tộc</text>
+    </g>
+    <g id="patch_16">
+     <path d="M 567.99 137.273823 
+L 701.91 137.273823 
+L 701.91 119.505104 
+L 567.99 119.505104 
+z
+" style="fill: #eef4f8; stroke: #dbe3eb; stroke-linejoin: miter"/>
+    </g>
+    <g id="text_15">
+     <text style="font: 10.5px 'DejaVu Sans'; text-anchor: start" x="578.7036" y="131.286807" transform="rotate(-0 578.7036 131.286807)">Loại</text>
+    </g>
+    <g id="patch_17">
+     <path d="M 701.91 137.273823 
+L 844.2 137.273823 
+L 844.2 119.505104 
+L 701.91 119.505104 
+z
+" style="fill: #eef4f8; stroke: #dbe3eb; stroke-linejoin: miter"/>
+    </g>
+    <g id="text_16">
+     <text style="font: 10.5px 'DejaVu Sans'; text-anchor: start" x="713.2932" y="131.366377" transform="rotate(-0 713.2932 131.366377)">Xã hội</text>
+    </g>
+    <g id="patch_18">
+     <path d="M 7.2 155.042542 
+L 157.86 155.042542 
+L 157.86 137.273823 
+L 7.2 137.273823 
+z
+" style="fill: #ffffff; stroke: #dbe3eb; stroke-linejoin: miter"/>
+    </g>
+    <g id="text_17">
+     <text style="font: 10.5px 'DejaVu Sans'; text-anchor: start" x="19.2528" y="149.055527" transform="rotate(-0 19.2528 149.055527)">DMDEDUC2</text>
+    </g>
+    <g id="patch_19">
+     <path d="M 157.86 155.042542 
+L 567.99 155.042542 
+L 567.99 137.273823 
+L 157.86 137.273823 
+z
+" style="fill: #ffffff; stroke: #dbe3eb; stroke-linejoin: miter"/>
+    </g>
+    <g id="text_18">
+     <text style="font: 10.5px 'DejaVu Sans'; text-anchor: start" x="190.6704" y="149.37873" transform="rotate(-0 190.6704 149.37873)">Trình độ học vấn</text>
+    </g>
+    <g id="patch_20">
+     <path d="M 567.99 155.042542 
+L 701.91 155.042542 
+L 701.91 137.273823 
+L 567.99 137.273823 
+z
+" style="fill: #ffffff; stroke: #dbe3eb; stroke-linejoin: miter"/>
+    </g>
+    <g id="text_19">
+     <text style="font: 10.5px 'DejaVu Sans'; text-anchor: start" x="578.7036" y="149.055527" transform="rotate(-0 578.7036 149.055527)">Loại</text>
+    </g>
+    <g id="patch_21">
+     <path d="M 701.91 155.042542 
+L 844.2 155.042542 
+L 844.2 137.273823 
+L 701.91 137.273823 
+z
+" style="fill: #ffffff; stroke: #dbe3eb; stroke-linejoin: miter"/>
+    </g>
+    <g id="text_20">
+     <text style="font: 10.5px 'DejaVu Sans'; text-anchor: start" x="713.2932" y="149.135097" transform="rotate(-0 713.2932 149.135097)">Xã hội</text>
+    </g>
+    <g id="patch_22">
+     <path d="M 7.2 172.811262 
+L 157.86 172.811262 
+L 157.86 155.042542 
+L 7.2 155.042542 
+z
+" style="fill: #eef4f8; stroke: #dbe3eb; stroke-linejoin: miter"/>
+    </g>
+    <g id="text_21">
+     <text style="font: 10.5px 'DejaVu Sans'; text-anchor: start" x="19.2528" y="166.824246" transform="rotate(-0 19.2528 166.824246)">INDFMPIR</text>
+    </g>
+    <g id="patch_23">
+     <path d="M 157.86 172.811262 
+L 567.99 172.811262 
+L 567.99 155.042542 
+L 157.86 155.042542 
+z
+" style="fill: #eef4f8; stroke: #dbe3eb; stroke-linejoin: miter"/>
+    </g>
+    <g id="text_22">
+     <text style="font: 10.5px 'DejaVu Sans'; text-anchor: start" x="190.6704" y="167.277879" transform="rotate(-0 190.6704 167.277879)">Tỷ số thu nhập / ngưỡng nghèo</text>
+    </g>
+    <g id="patch_24">
+     <path d="M 567.99 172.811262 
+L 701.91 172.811262 
+L 701.91 155.042542 
+L 567.99 155.042542 
+z
+" style="fill: #eef4f8; stroke: #dbe3eb; stroke-linejoin: miter"/>
+    </g>
+    <g id="text_23">
+     <text style="font: 10.5px 'DejaVu Sans'; text-anchor: start" x="578.7036" y="166.824246" transform="rotate(-0 578.7036 166.824246)">Số</text>
+    </g>
+    <g id="patch_25">
+     <path d="M 701.91 172.811262 
+L 844.2 172.811262 
+L 844.2 155.042542 
+L 701.91 155.042542 
+z
+" style="fill: #eef4f8; stroke: #dbe3eb; stroke-linejoin: miter"/>
+    </g>
+    <g id="text_24">
+     <text style="font: 10.5px 'DejaVu Sans'; text-anchor: start" x="713.2932" y="166.903816" transform="rotate(-0 713.2932 166.903816)">Xã hội</text>
+    </g>
+    <g id="patch_26">
+     <path d="M 7.2 190.579981 
+L 157.86 190.579981 
+L 157.86 172.811262 
+L 7.2 172.811262 
+z
+" style="fill: #ffffff; stroke: #dbe3eb; stroke-linejoin: miter"/>
+    </g>
+    <g id="text_25">
+     <text style="font: 10.5px 'DejaVu Sans'; text-anchor: start" x="19.2528" y="184.592965" transform="rotate(-0 19.2528 184.592965)">BMXBMI</text>
+    </g>
+    <g id="patch_27">
+     <path d="M 157.86 190.579981 
+L 567.99 190.579981 
+L 567.99 172.811262 
+L 157.86 172.811262 
+z
+" style="fill: #ffffff; stroke: #dbe3eb; stroke-linejoin: miter"/>
+    </g>
+    <g id="text_26">
+     <text style="font: 10.5px 'DejaVu Sans'; text-anchor: start" x="190.6704" y="184.592965" transform="rotate(-0 190.6704 184.592965)">BMI (kg/m²)</text>
+    </g>
+    <g id="patch_28">
+     <path d="M 567.99 190.579981 
+L 701.91 190.579981 
+L 701.91 172.811262 
+L 567.99 172.811262 
+z
+" style="fill: #ffffff; stroke: #dbe3eb; stroke-linejoin: miter"/>
+    </g>
+    <g id="text_27">
+     <text style="font: 10.5px 'DejaVu Sans'; text-anchor: start" x="578.7036" y="184.592965" transform="rotate(-0 578.7036 184.592965)">Số</text>
+    </g>
+    <g id="patch_29">
+     <path d="M 701.91 190.579981 
+L 844.2 190.579981 
+L 844.2 172.811262 
+L 701.91 172.811262 
+z
+" style="fill: #ffffff; stroke: #dbe3eb; stroke-linejoin: miter"/>
+    </g>
+    <g id="text_28">
+     <text style="font: 10.5px 'DejaVu Sans'; text-anchor: start" x="713.2932" y="184.592965" transform="rotate(-0 713.2932 184.592965)">Cơ thể</text>
+    </g>
+    <g id="patch_30">
+     <path d="M 7.2 208.348701 
+L 157.86 208.348701 
+L 157.86 190.579981 
+L 7.2 190.579981 
+z
+" style="fill: #eef4f8; stroke: #dbe3eb; stroke-linejoin: miter"/>
+    </g>
+    <g id="text_29">
+     <text style="font: 10.5px 'DejaVu Sans'; text-anchor: start" x="19.2528" y="202.361685" transform="rotate(-0 19.2528 202.361685)">BMXWAIST</text>
+    </g>
+    <g id="patch_31">
+     <path d="M 157.86 208.348701 
+L 567.99 208.348701 
+L 567.99 190.579981 
+L 157.86 190.579981 
+z
+" style="fill: #eef4f8; stroke: #dbe3eb; stroke-linejoin: miter"/>
+    </g>
+    <g id="text_30">
+     <text style="font: 10.5px 'DejaVu Sans'; text-anchor: start" x="190.6704" y="202.571685" transform="rotate(-0 190.6704 202.571685)">Vòng eo (cm)</text>
+    </g>
+    <g id="patch_32">
+     <path d="M 567.99 208.348701 
+L 701.91 208.348701 
+L 701.91 190.579981 
+L 567.99 190.579981 
+z
+" style="fill: #eef4f8; stroke: #dbe3eb; stroke-linejoin: miter"/>
+    </g>
+    <g id="text_31">
+     <text style="font: 10.5px 'DejaVu Sans'; text-anchor: start" x="578.7036" y="202.361685" transform="rotate(-0 578.7036 202.361685)">Số</text>
+    </g>
+    <g id="patch_33">
+     <path d="M 701.91 208.348701 
+L 844.2 208.348701 
+L 844.2 190.579981 
+L 701.91 190.579981 
+z
+" style="fill: #eef4f8; stroke: #dbe3eb; stroke-linejoin: miter"/>
+    </g>
+    <g id="text_32">
+     <text style="font: 10.5px 'DejaVu Sans'; text-anchor: start" x="713.2932" y="202.361685" transform="rotate(-0 713.2932 202.361685)">Cơ thể</text>
+    </g>
+    <g id="patch_34">
+     <path d="M 7.2 226.11742 
+L 157.86 226.11742 
+L 157.86 208.348701 
+L 7.2 208.348701 
+z
+" style="fill: #ffffff; stroke: #dbe3eb; stroke-linejoin: miter"/>
+    </g>
+    <g id="text_33">
+     <text style="font: 10.5px 'DejaVu Sans'; text-anchor: start" x="19.2528" y="219.984389" transform="rotate(-0 19.2528 219.984389)">sbp_mean</text>
+    </g>
+    <g id="patch_35">
+     <path d="M 157.86 226.11742 
+L 567.99 226.11742 
+L 567.99 208.348701 
+L 157.86 208.348701 
+z
+" style="fill: #ffffff; stroke: #dbe3eb; stroke-linejoin: miter"/>
+    </g>
+    <g id="text_34">
+     <text style="font: 10.5px 'DejaVu Sans'; text-anchor: start" x="190.6704" y="220.584037" transform="rotate(-0 190.6704 220.584037)">Huyết áp tâm thu trung bình (mmHg)</text>
+    </g>
+    <g id="patch_36">
+     <path d="M 567.99 226.11742 
+L 701.91 226.11742 
+L 701.91 208.348701 
+L 567.99 208.348701 
+z
+" style="fill: #ffffff; stroke: #dbe3eb; stroke-linejoin: miter"/>
+    </g>
+    <g id="text_35">
+     <text style="font: 10.5px 'DejaVu Sans'; text-anchor: start" x="578.7036" y="220.130404" transform="rotate(-0 578.7036 220.130404)">Số</text>
+    </g>
+    <g id="patch_37">
+     <path d="M 701.91 226.11742 
+L 844.2 226.11742 
+L 844.2 208.348701 
+L 701.91 208.348701 
+z
+" style="fill: #ffffff; stroke: #dbe3eb; stroke-linejoin: miter"/>
+    </g>
+    <g id="text_36">
+     <text style="font: 10.5px 'DejaVu Sans'; text-anchor: start" x="713.2932" y="220.584037" transform="rotate(-0 713.2932 220.584037)">Huyết áp</text>
+    </g>
+    <g id="patch_38">
+     <path d="M 7.2 243.88614 
+L 157.86 243.88614 
+L 157.86 226.11742 
+L 7.2 226.11742 
+z
+" style="fill: #eef4f8; stroke: #dbe3eb; stroke-linejoin: miter"/>
+    </g>
+    <g id="text_37">
+     <text style="font: 10.5px 'DejaVu Sans'; text-anchor: start" x="19.2528" y="237.753108" transform="rotate(-0 19.2528 237.753108)">dbp_mean</text>
+    </g>
+    <g id="patch_39">
+     <path d="M 157.86 243.88614 
+L 567.99 243.88614 
+L 567.99 226.11742 
+L 157.86 226.11742 
+z
+" style="fill: #eef4f8; stroke: #dbe3eb; stroke-linejoin: miter"/>
+    </g>
+    <g id="text_38">
+     <text style="font: 10.5px 'DejaVu Sans'; text-anchor: start" x="190.6704" y="238.352756" transform="rotate(-0 190.6704 238.352756)">Huyết áp tâm trương trung bình (mmHg)</text>
+    </g>
+    <g id="patch_40">
+     <path d="M 567.99 243.88614 
+L 701.91 243.88614 
+L 701.91 226.11742 
+L 567.99 226.11742 
+z
+" style="fill: #eef4f8; stroke: #dbe3eb; stroke-linejoin: miter"/>
+    </g>
+    <g id="text_39">
+     <text style="font: 10.5px 'DejaVu Sans'; text-anchor: start" x="578.7036" y="237.899124" transform="rotate(-0 578.7036 237.899124)">Số</text>
+    </g>
+    <g id="patch_41">
+     <path d="M 701.91 243.88614 
+L 844.2 243.88614 
+L 844.2 226.11742 
+L 701.91 226.11742 
+z
+" style="fill: #eef4f8; stroke: #dbe3eb; stroke-linejoin: miter"/>
+    </g>
+    <g id="text_40">
+     <text style="font: 10.5px 'DejaVu Sans'; text-anchor: start" x="713.2932" y="238.352756" transform="rotate(-0 713.2932 238.352756)">Huyết áp</text>
+    </g>
+    <g id="patch_42">
+     <path d="M 7.2 261.654859 
+L 157.86 261.654859 
+L 157.86 243.88614 
+L 7.2 243.88614 
+z
+" style="fill: #ffffff; stroke: #dbe3eb; stroke-linejoin: miter"/>
+    </g>
+    <g id="text_41">
+     <text style="font: 10.5px 'DejaVu Sans'; text-anchor: start" x="19.2528" y="255.667843" transform="rotate(-0 19.2528 255.667843)">BPQ020</text>
+    </g>
+    <g id="patch_43">
+     <path d="M 157.86 261.654859 
+L 567.99 261.654859 
+L 567.99 243.88614 
+L 157.86 243.88614 
+z
+" style="fill: #ffffff; stroke: #dbe3eb; stroke-linejoin: miter"/>
+    </g>
+    <g id="text_42">
+     <text style="font: 10.5px 'DejaVu Sans'; text-anchor: start" x="190.6704" y="256.121476" transform="rotate(-0 190.6704 256.121476)">Từng được thông báo tăng huyết áp</text>
+    </g>
+    <g id="patch_44">
+     <path d="M 567.99 261.654859 
+L 701.91 261.654859 
+L 701.91 243.88614 
+L 567.99 243.88614 
+z
+" style="fill: #ffffff; stroke: #dbe3eb; stroke-linejoin: miter"/>
+    </g>
+    <g id="text_43">
+     <text style="font: 10.5px 'DejaVu Sans'; text-anchor: start" x="578.7036" y="255.667843" transform="rotate(-0 578.7036 255.667843)">Loại</text>
+    </g>
+    <g id="patch_45">
+     <path d="M 701.91 261.654859 
+L 844.2 261.654859 
+L 844.2 243.88614 
+L 701.91 243.88614 
+z
+" style="fill: #ffffff; stroke: #dbe3eb; stroke-linejoin: miter"/>
+    </g>
+    <g id="text_44">
+     <text style="font: 10.5px 'DejaVu Sans'; text-anchor: start" x="713.2932" y="256.121476" transform="rotate(-0 713.2932 256.121476)">Huyết áp</text>
+    </g>
+    <g id="patch_46">
+     <path d="M 7.2 279.423578 
+L 157.86 279.423578 
+L 157.86 261.654859 
+L 7.2 261.654859 
+z
+" style="fill: #eef4f8; stroke: #dbe3eb; stroke-linejoin: miter"/>
+    </g>
+    <g id="text_45">
+     <text style="font: 10.5px 'DejaVu Sans'; text-anchor: start" x="19.2528" y="273.436563" transform="rotate(-0 19.2528 273.436563)">BPQ150</text>
+    </g>
+    <g id="patch_47">
+     <path d="M 157.86 279.423578 
+L 567.99 279.423578 
+L 567.99 261.654859 
+L 157.86 261.654859 
+z
+" style="fill: #eef4f8; stroke: #dbe3eb; stroke-linejoin: miter"/>
+    </g>
+    <g id="text_46">
+     <text style="font: 10.5px 'DejaVu Sans'; text-anchor: start" x="190.6704" y="273.892656" transform="rotate(-0 190.6704 273.892656)">Đang dùng thuốc huyết áp (đã đồng nhất)</text>
+    </g>
+    <g id="patch_48">
+     <path d="M 567.99 279.423578 
+L 701.91 279.423578 
+L 701.91 261.654859 
+L 567.99 261.654859 
+z
+" style="fill: #eef4f8; stroke: #dbe3eb; stroke-linejoin: miter"/>
+    </g>
+    <g id="text_47">
+     <text style="font: 10.5px 'DejaVu Sans'; text-anchor: start" x="578.7036" y="273.436563" transform="rotate(-0 578.7036 273.436563)">Loại</text>
+    </g>
+    <g id="patch_49">
+     <path d="M 701.91 279.423578 
+L 844.2 279.423578 
+L 844.2 261.654859 
+L 701.91 261.654859 
+z
+" style="fill: #eef4f8; stroke: #dbe3eb; stroke-linejoin: miter"/>
+    </g>
+    <g id="text_48">
+     <text style="font: 10.5px 'DejaVu Sans'; text-anchor: start" x="713.2932" y="273.890195" transform="rotate(-0 713.2932 273.890195)">Huyết áp</text>
+    </g>
+    <g id="patch_50">
+     <path d="M 7.2 297.192298 
+L 157.86 297.192298 
+L 157.86 279.423578 
+L 7.2 279.423578 
+z
+" style="fill: #ffffff; stroke: #dbe3eb; stroke-linejoin: miter"/>
+    </g>
+    <g id="text_49">
+     <text style="font: 10.5px 'DejaVu Sans'; text-anchor: start" x="19.2528" y="291.205282" transform="rotate(-0 19.2528 291.205282)">DIQ010</text>
+    </g>
+    <g id="patch_51">
+     <path d="M 157.86 297.192298 
+L 567.99 297.192298 
+L 567.99 279.423578 
+L 157.86 279.423578 
+z
+" style="fill: #ffffff; stroke: #dbe3eb; stroke-linejoin: miter"/>
+    </g>
+    <g id="text_50">
+     <text style="font: 10.5px 'DejaVu Sans'; text-anchor: start" x="190.6704" y="291.415282" transform="rotate(-0 190.6704 291.415282)">Từng được thông báo đái tháo đường</text>
+    </g>
+    <g id="patch_52">
+     <path d="M 567.99 297.192298 
+L 701.91 297.192298 
+L 701.91 279.423578 
+L 567.99 279.423578 
+z
+" style="fill: #ffffff; stroke: #dbe3eb; stroke-linejoin: miter"/>
+    </g>
+    <g id="text_51">
+     <text style="font: 10.5px 'DejaVu Sans'; text-anchor: start" x="578.7036" y="291.205282" transform="rotate(-0 578.7036 291.205282)">Loại</text>
+    </g>
+    <g id="patch_53">
+     <path d="M 701.91 297.192298 
+L 844.2 297.192298 
+L 844.2 279.423578 
+L 701.91 279.423578 
+z
+" style="fill: #ffffff; stroke: #dbe3eb; stroke-linejoin: miter"/>
+    </g>
+    <g id="text_52">
+     <text style="font: 10.5px 'DejaVu Sans'; text-anchor: start" x="713.2932" y="291.205282" transform="rotate(-0 713.2932 291.205282)">Tiền sử</text>
+    </g>
+    <g id="patch_54">
+     <path d="M 7.2 314.961017 
+L 157.86 314.961017 
+L 157.86 297.192298 
+L 7.2 297.192298 
+z
+" style="fill: #eef4f8; stroke: #dbe3eb; stroke-linejoin: miter"/>
+    </g>
+    <g id="text_53">
+     <text style="font: 10.5px 'DejaVu Sans'; text-anchor: start" x="19.2528" y="308.974001" transform="rotate(-0 19.2528 308.974001)">DIQ160</text>
+    </g>
+    <g id="patch_55">
+     <path d="M 157.86 314.961017 
+L 567.99 314.961017 
+L 567.99 297.192298 
+L 157.86 297.192298 
+z
+" style="fill: #eef4f8; stroke: #dbe3eb; stroke-linejoin: miter"/>
+    </g>
+    <g id="text_54">
+     <text style="font: 10.5px 'DejaVu Sans'; text-anchor: start" x="190.6704" y="309.430095" transform="rotate(-0 190.6704 309.430095)">Từng được thông báo tiền đái tháo đường</text>
+    </g>
+    <g id="patch_56">
+     <path d="M 567.99 314.961017 
+L 701.91 314.961017 
+L 701.91 297.192298 
+L 567.99 297.192298 
+z
+" style="fill: #eef4f8; stroke: #dbe3eb; stroke-linejoin: miter"/>
+    </g>
+    <g id="text_55">
+     <text style="font: 10.5px 'DejaVu Sans'; text-anchor: start" x="578.7036" y="308.974001" transform="rotate(-0 578.7036 308.974001)">Loại</text>
+    </g>
+    <g id="patch_57">
+     <path d="M 701.91 314.961017 
+L 844.2 314.961017 
+L 844.2 297.192298 
+L 701.91 297.192298 
+z
+" style="fill: #eef4f8; stroke: #dbe3eb; stroke-linejoin: miter"/>
+    </g>
+    <g id="text_56">
+     <text style="font: 10.5px 'DejaVu Sans'; text-anchor: start" x="713.2932" y="308.974001" transform="rotate(-0 713.2932 308.974001)">Tiền sử</text>
+    </g>
+    <g id="patch_58">
+     <path d="M 7.2 332.729737 
+L 157.86 332.729737 
+L 157.86 314.961017 
+L 7.2 314.961017 
+z
+" style="fill: #ffffff; stroke: #dbe3eb; stroke-linejoin: miter"/>
+    </g>
+    <g id="text_57">
+     <text style="font: 10.5px 'DejaVu Sans'; text-anchor: start" x="19.2528" y="326.596705" transform="rotate(-0 19.2528 326.596705)">current_smoking</text>
+    </g>
+    <g id="patch_59">
+     <path d="M 157.86 332.729737 
+L 567.99 332.729737 
+L 567.99 314.961017 
+L 157.86 314.961017 
+z
+" style="fill: #ffffff; stroke: #dbe3eb; stroke-linejoin: miter"/>
+    </g>
+    <g id="text_58">
+     <text style="font: 10.5px 'DejaVu Sans'; text-anchor: start" x="190.6704" y="327.216861" transform="rotate(-0 190.6704 327.216861)">Hiện hút thuốc (dẫn xuất)</text>
+    </g>
+    <g id="patch_60">
+     <path d="M 567.99 332.729737 
+L 701.91 332.729737 
+L 701.91 314.961017 
+L 567.99 314.961017 
+z
+" style="fill: #ffffff; stroke: #dbe3eb; stroke-linejoin: miter"/>
+    </g>
+    <g id="text_59">
+     <text style="font: 10.5px 'DejaVu Sans'; text-anchor: start" x="578.7036" y="326.742721" transform="rotate(-0 578.7036 326.742721)">Loại</text>
+    </g>
+    <g id="patch_61">
+     <path d="M 701.91 332.729737 
+L 844.2 332.729737 
+L 844.2 314.961017 
+L 701.91 314.961017 
+z
+" style="fill: #ffffff; stroke: #dbe3eb; stroke-linejoin: miter"/>
+    </g>
+    <g id="text_60">
+     <text style="font: 10.5px 'DejaVu Sans'; text-anchor: start" x="713.2932" y="327.196354" transform="rotate(-0 713.2932 327.196354)">Lối sống</text>
+    </g>
+    <g id="patch_62">
+     <path d="M 7.2 350.498456 
+L 157.86 350.498456 
+L 157.86 332.729737 
+L 7.2 332.729737 
+z
+" style="fill: #eef4f8; stroke: #dbe3eb; stroke-linejoin: miter"/>
+    </g>
+    <g id="text_61">
+     <text style="font: 10.5px 'DejaVu Sans'; text-anchor: start" x="19.2528" y="344.51144" transform="rotate(-0 19.2528 344.51144)">ALQ111</text>
+    </g>
+    <g id="patch_63">
+     <path d="M 157.86 350.498456 
+L 567.99 350.498456 
+L 567.99 332.729737 
+L 157.86 332.729737 
+z
+" style="fill: #eef4f8; stroke: #dbe3eb; stroke-linejoin: miter"/>
+    </g>
+    <g id="text_62">
+     <text style="font: 10.5px 'DejaVu Sans'; text-anchor: start" x="190.6704" y="344.965073" transform="rotate(-0 190.6704 344.965073)">Từng uống rượu trong đời</text>
+    </g>
+    <g id="patch_64">
+     <path d="M 567.99 350.498456 
+L 701.91 350.498456 
+L 701.91 332.729737 
+L 567.99 332.729737 
+z
+" style="fill: #eef4f8; stroke: #dbe3eb; stroke-linejoin: miter"/>
+    </g>
+    <g id="text_63">
+     <text style="font: 10.5px 'DejaVu Sans'; text-anchor: start" x="578.7036" y="344.51144" transform="rotate(-0 578.7036 344.51144)">Loại</text>
+    </g>
+    <g id="patch_65">
+     <path d="M 701.91 350.498456 
+L 844.2 350.498456 
+L 844.2 332.729737 
+L 701.91 332.729737 
+z
+" style="fill: #eef4f8; stroke: #dbe3eb; stroke-linejoin: miter"/>
+    </g>
+    <g id="text_64">
+     <text style="font: 10.5px 'DejaVu Sans'; text-anchor: start" x="713.2932" y="344.965073" transform="rotate(-0 713.2932 344.965073)">Lối sống</text>
+    </g>
+    <g id="patch_66">
+     <path d="M 7.2 368.267176 
+L 157.86 368.267176 
+L 157.86 350.498456 
+L 7.2 350.498456 
+z
+" style="fill: #ffffff; stroke: #dbe3eb; stroke-linejoin: miter"/>
+    </g>
+    <g id="text_65">
+     <text style="font: 10.5px 'DejaVu Sans'; text-anchor: start" x="19.2528" y="362.28016" transform="rotate(-0 19.2528 362.28016)">ALQ121</text>
+    </g>
+    <g id="patch_67">
+     <path d="M 157.86 368.267176 
+L 567.99 368.267176 
+L 567.99 350.498456 
+L 157.86 350.498456 
+z
+" style="fill: #ffffff; stroke: #dbe3eb; stroke-linejoin: miter"/>
+    </g>
+    <g id="text_66">
+     <text style="font: 10.5px 'DejaVu Sans'; text-anchor: start" x="190.6704" y="362.736253" transform="rotate(-0 190.6704 362.736253)">Mã tần suất uống rượu 12 tháng</text>
+    </g>
+    <g id="patch_68">
+     <path d="M 567.99 368.267176 
+L 701.91 368.267176 
+L 701.91 350.498456 
+L 567.99 350.498456 
+z
+" style="fill: #ffffff; stroke: #dbe3eb; stroke-linejoin: miter"/>
+    </g>
+    <g id="text_67">
+     <text style="font: 10.5px 'DejaVu Sans'; text-anchor: start" x="578.7036" y="362.28016" transform="rotate(-0 578.7036 362.28016)">Loại</text>
+    </g>
+    <g id="patch_69">
+     <path d="M 701.91 368.267176 
+L 844.2 368.267176 
+L 844.2 350.498456 
+L 701.91 350.498456 
+z
+" style="fill: #ffffff; stroke: #dbe3eb; stroke-linejoin: miter"/>
+    </g>
+    <g id="text_68">
+     <text style="font: 10.5px 'DejaVu Sans'; text-anchor: start" x="713.2932" y="362.733792" transform="rotate(-0 713.2932 362.733792)">Lối sống</text>
+    </g>
+    <g id="patch_70">
+     <path d="M 7.2 386.035895 
+L 157.86 386.035895 
+L 157.86 368.267176 
+L 7.2 368.267176 
+z
+" style="fill: #eef4f8; stroke: #dbe3eb; stroke-linejoin: miter"/>
+    </g>
+    <g id="text_69">
+     <text style="font: 10.5px 'DejaVu Sans'; text-anchor: start" x="19.2528" y="380.048879" transform="rotate(-0 19.2528 380.048879)">ALQ130</text>
+    </g>
+    <g id="patch_71">
+     <path d="M 157.86 386.035895 
+L 567.99 386.035895 
+L 567.99 368.267176 
+L 157.86 368.267176 
+z
+" style="fill: #eef4f8; stroke: #dbe3eb; stroke-linejoin: miter"/>
+    </g>
+    <g id="text_70">
+     <text style="font: 10.5px 'DejaVu Sans'; text-anchor: start" x="190.6704" y="380.502512" transform="rotate(-0 190.6704 380.502512)">Số ly trung bình khi uống rượu</text>
+    </g>
+    <g id="patch_72">
+     <path d="M 567.99 386.035895 
+L 701.91 386.035895 
+L 701.91 368.267176 
+L 567.99 368.267176 
+z
+" style="fill: #eef4f8; stroke: #dbe3eb; stroke-linejoin: miter"/>
+    </g>
+    <g id="text_71">
+     <text style="font: 10.5px 'DejaVu Sans'; text-anchor: start" x="578.7036" y="380.048879" transform="rotate(-0 578.7036 380.048879)">Số</text>
+    </g>
+    <g id="patch_73">
+     <path d="M 701.91 386.035895 
+L 844.2 386.035895 
+L 844.2 368.267176 
+L 701.91 368.267176 
+z
+" style="fill: #eef4f8; stroke: #dbe3eb; stroke-linejoin: miter"/>
+    </g>
+    <g id="text_72">
+     <text style="font: 10.5px 'DejaVu Sans'; text-anchor: start" x="713.2932" y="380.502512" transform="rotate(-0 713.2932 380.502512)">Lối sống</text>
+    </g>
+    <g id="patch_74">
+     <path d="M 7.2 403.804614 
+L 157.86 403.804614 
+L 157.86 386.035895 
+L 7.2 386.035895 
+z
+" style="fill: #ffffff; stroke: #dbe3eb; stroke-linejoin: miter"/>
+    </g>
+    <g id="text_73">
+     <text style="font: 10.5px 'DejaVu Sans'; text-anchor: start" x="19.2528" y="397.817598" transform="rotate(-0 19.2528 397.817598)">PAD680</text>
+    </g>
+    <g id="patch_75">
+     <path d="M 157.86 403.804614 
+L 567.99 403.804614 
+L 567.99 386.035895 
+L 157.86 386.035895 
+z
+" style="fill: #ffffff; stroke: #dbe3eb; stroke-linejoin: miter"/>
+    </g>
+    <g id="text_74">
+     <text style="font: 10.5px 'DejaVu Sans'; text-anchor: start" x="190.6704" y="398.273692" transform="rotate(-0 190.6704 398.273692)">Thời gian ngồi (phút/ngày)</text>
+    </g>
+    <g id="patch_76">
+     <path d="M 567.99 403.804614 
+L 701.91 403.804614 
+L 701.91 386.035895 
+L 567.99 386.035895 
+z
+" style="fill: #ffffff; stroke: #dbe3eb; stroke-linejoin: miter"/>
+    </g>
+    <g id="text_75">
+     <text style="font: 10.5px 'DejaVu Sans'; text-anchor: start" x="578.7036" y="397.817598" transform="rotate(-0 578.7036 397.817598)">Số</text>
+    </g>
+    <g id="patch_77">
+     <path d="M 701.91 403.804614 
+L 844.2 403.804614 
+L 844.2 386.035895 
+L 701.91 386.035895 
+z
+" style="fill: #ffffff; stroke: #dbe3eb; stroke-linejoin: miter"/>
+    </g>
+    <g id="text_76">
+     <text style="font: 10.5px 'DejaVu Sans'; text-anchor: start" x="713.2932" y="398.271231" transform="rotate(-0 713.2932 398.271231)">Lối sống</text>
+    </g>
+    <g id="patch_78">
+     <path d="M 7.2 421.573334 
+L 157.86 421.573334 
+L 157.86 403.804614 
+L 7.2 403.804614 
+z
+" style="fill: #eef4f8; stroke: #dbe3eb; stroke-linejoin: miter"/>
+    </g>
+    <g id="text_77">
+     <text style="font: 10.5px 'DejaVu Sans'; text-anchor: start" x="19.2528" y="415.586318" transform="rotate(-0 19.2528 415.586318)">BPQ080</text>
+    </g>
+    <g id="patch_79">
+     <path d="M 157.86 421.573334 
+L 567.99 421.573334 
+L 567.99 403.804614 
+L 157.86 403.804614 
+z
+" style="fill: #eef4f8; stroke: #dbe3eb; stroke-linejoin: miter"/>
+    </g>
+    <g id="text_78">
+     <text style="font: 10.5px 'DejaVu Sans'; text-anchor: start" x="190.6704" y="415.796318" transform="rotate(-0 190.6704 415.796318)">Từng được thông báo cholesterol cao</text>
+    </g>
+    <g id="patch_80">
+     <path d="M 567.99 421.573334 
+L 701.91 421.573334 
+L 701.91 403.804614 
+L 567.99 403.804614 
+z
+" style="fill: #eef4f8; stroke: #dbe3eb; stroke-linejoin: miter"/>
+    </g>
+    <g id="text_79">
+     <text style="font: 10.5px 'DejaVu Sans'; text-anchor: start" x="578.7036" y="415.586318" transform="rotate(-0 578.7036 415.586318)">Loại</text>
+    </g>
+    <g id="patch_81">
+     <path d="M 701.91 421.573334 
+L 844.2 421.573334 
+L 844.2 403.804614 
+L 701.91 403.804614 
+z
+" style="fill: #eef4f8; stroke: #dbe3eb; stroke-linejoin: miter"/>
+    </g>
+    <g id="text_80">
+     <text style="font: 10.5px 'DejaVu Sans'; text-anchor: start" x="713.2932" y="415.586318" transform="rotate(-0 713.2932 415.586318)">Tiền sử</text>
+    </g>
+    <g id="patch_82">
+     <path d="M 7.2 439.342053 
+L 157.86 439.342053 
+L 157.86 421.573334 
+L 7.2 421.573334 
+z
+" style="fill: #ffffff; stroke: #dbe3eb; stroke-linejoin: miter"/>
+    </g>
+    <g id="text_81">
+     <text style="font: 10.5px 'DejaVu Sans'; text-anchor: start" x="19.2528" y="433.355037" transform="rotate(-0 19.2528 433.355037)">LBXTC</text>
+    </g>
+    <g id="patch_83">
+     <path d="M 157.86 439.342053 
+L 567.99 439.342053 
+L 567.99 421.573334 
+L 157.86 421.573334 
+z
+" style="fill: #ffffff; stroke: #dbe3eb; stroke-linejoin: miter"/>
+    </g>
+    <g id="text_82">
+     <text style="font: 10.5px 'DejaVu Sans'; text-anchor: start" x="190.6704" y="433.811131" transform="rotate(-0 190.6704 433.811131)">Cholesterol toàn phần (mg/dL)</text>
+    </g>
+    <g id="patch_84">
+     <path d="M 567.99 439.342053 
+L 701.91 439.342053 
+L 701.91 421.573334 
+L 567.99 421.573334 
+z
+" style="fill: #ffffff; stroke: #dbe3eb; stroke-linejoin: miter"/>
+    </g>
+    <g id="text_83">
+     <text style="font: 10.5px 'DejaVu Sans'; text-anchor: start" x="578.7036" y="433.355037" transform="rotate(-0 578.7036 433.355037)">Số</text>
+    </g>
+    <g id="patch_85">
+     <path d="M 701.91 439.342053 
+L 844.2 439.342053 
+L 844.2 421.573334 
+L 701.91 421.573334 
+z
+" style="fill: #ffffff; stroke: #dbe3eb; stroke-linejoin: miter"/>
+    </g>
+    <g id="text_84">
+     <text style="font: 10.5px 'DejaVu Sans'; text-anchor: start" x="713.2932" y="433.565037" transform="rotate(-0 713.2932 433.565037)">Xét nghiệm</text>
+    </g>
+    <g id="patch_86">
+     <path d="M 7.2 457.110773 
+L 157.86 457.110773 
+L 157.86 439.342053 
+L 7.2 439.342053 
+z
+" style="fill: #eef4f8; stroke: #dbe3eb; stroke-linejoin: miter"/>
+    </g>
+    <g id="text_85">
+     <text style="font: 10.5px 'DejaVu Sans'; text-anchor: start" x="19.2528" y="451.123757" transform="rotate(-0 19.2528 451.123757)">LBDHDD</text>
+    </g>
+    <g id="patch_87">
+     <path d="M 157.86 457.110773 
+L 567.99 457.110773 
+L 567.99 439.342053 
+L 157.86 439.342053 
+z
+" style="fill: #eef4f8; stroke: #dbe3eb; stroke-linejoin: miter"/>
+    </g>
+    <g id="text_86">
+     <text style="font: 10.5px 'DejaVu Sans'; text-anchor: start" x="190.6704" y="451.123757" transform="rotate(-0 190.6704 451.123757)">HDL cholesterol (mg/dL)</text>
+    </g>
+    <g id="patch_88">
+     <path d="M 567.99 457.110773 
+L 701.91 457.110773 
+L 701.91 439.342053 
+L 567.99 439.342053 
+z
+" style="fill: #eef4f8; stroke: #dbe3eb; stroke-linejoin: miter"/>
+    </g>
+    <g id="text_87">
+     <text style="font: 10.5px 'DejaVu Sans'; text-anchor: start" x="578.7036" y="451.123757" transform="rotate(-0 578.7036 451.123757)">Số</text>
+    </g>
+    <g id="patch_89">
+     <path d="M 701.91 457.110773 
+L 844.2 457.110773 
+L 844.2 439.342053 
+L 701.91 439.342053 
+z
+" style="fill: #eef4f8; stroke: #dbe3eb; stroke-linejoin: miter"/>
+    </g>
+    <g id="text_88">
+     <text style="font: 10.5px 'DejaVu Sans'; text-anchor: start" x="713.2932" y="451.333757" transform="rotate(-0 713.2932 451.333757)">Xét nghiệm</text>
+    </g>
+    <g id="patch_90">
+     <path d="M 7.2 474.879492 
+L 157.86 474.879492 
+L 157.86 457.110773 
+L 7.2 457.110773 
+z
+" style="fill: #ffffff; stroke: #dbe3eb; stroke-linejoin: miter"/>
+    </g>
+    <g id="text_89">
+     <text style="font: 10.5px 'DejaVu Sans'; text-anchor: start" x="19.2528" y="468.892476" transform="rotate(-0 19.2528 468.892476)">LBXSUA</text>
+    </g>
+    <g id="patch_91">
+     <path d="M 157.86 474.879492 
+L 567.99 474.879492 
+L 567.99 457.110773 
+L 157.86 457.110773 
+z
+" style="fill: #ffffff; stroke: #dbe3eb; stroke-linejoin: miter"/>
+    </g>
+    <g id="text_90">
+     <text style="font: 10.5px 'DejaVu Sans'; text-anchor: start" x="190.6704" y="469.102476" transform="rotate(-0 190.6704 469.102476)">Acid uric máu (mg/dL)</text>
+    </g>
+    <g id="patch_92">
+     <path d="M 567.99 474.879492 
+L 701.91 474.879492 
+L 701.91 457.110773 
+L 567.99 457.110773 
+z
+" style="fill: #ffffff; stroke: #dbe3eb; stroke-linejoin: miter"/>
+    </g>
+    <g id="text_91">
+     <text style="font: 10.5px 'DejaVu Sans'; text-anchor: start" x="578.7036" y="468.892476" transform="rotate(-0 578.7036 468.892476)">Số</text>
+    </g>
+    <g id="patch_93">
+     <path d="M 701.91 474.879492 
+L 844.2 474.879492 
+L 844.2 457.110773 
+L 701.91 457.110773 
+z
+" style="fill: #ffffff; stroke: #dbe3eb; stroke-linejoin: miter"/>
+    </g>
+    <g id="text_92">
+     <text style="font: 10.5px 'DejaVu Sans'; text-anchor: start" x="713.2932" y="469.102476" transform="rotate(-0 713.2932 469.102476)">Xét nghiệm</text>
+    </g>
+    <g id="patch_94">
+     <path d="M 7.2 492.648212 
+L 157.86 492.648212 
+L 157.86 474.879492 
+L 7.2 474.879492 
+z
+" style="fill: #eef4f8; stroke: #dbe3eb; stroke-linejoin: miter"/>
+    </g>
+    <g id="text_93">
+     <text style="font: 10.5px 'DejaVu Sans'; text-anchor: start" x="19.2528" y="486.661196" transform="rotate(-0 19.2528 486.661196)">LBXHGB</text>
+    </g>
+    <g id="patch_95">
+     <path d="M 157.86 492.648212 
+L 567.99 492.648212 
+L 567.99 474.879492 
+L 157.86 474.879492 
+z
+" style="fill: #eef4f8; stroke: #dbe3eb; stroke-linejoin: miter"/>
+    </g>
+    <g id="text_94">
+     <text style="font: 10.5px 'DejaVu Sans'; text-anchor: start" x="190.6704" y="486.661196" transform="rotate(-0 190.6704 486.661196)">Hemoglobin (g/dL)</text>
+    </g>
+    <g id="patch_96">
+     <path d="M 567.99 492.648212 
+L 701.91 492.648212 
+L 701.91 474.879492 
+L 567.99 474.879492 
+z
+" style="fill: #eef4f8; stroke: #dbe3eb; stroke-linejoin: miter"/>
+    </g>
+    <g id="text_95">
+     <text style="font: 10.5px 'DejaVu Sans'; text-anchor: start" x="578.7036" y="486.661196" transform="rotate(-0 578.7036 486.661196)">Số</text>
+    </g>
+    <g id="patch_97">
+     <path d="M 701.91 492.648212 
+L 844.2 492.648212 
+L 844.2 474.879492 
+L 701.91 474.879492 
+z
+" style="fill: #eef4f8; stroke: #dbe3eb; stroke-linejoin: miter"/>
+    </g>
+    <g id="text_96">
+     <text style="font: 10.5px 'DejaVu Sans'; text-anchor: start" x="713.2932" y="486.871196" transform="rotate(-0 713.2932 486.871196)">Xét nghiệm</text>
+    </g>
+   </g>
+   <g id="text_97">
+    <text style="font: 700 15px 'DejaVu Sans'; text-anchor: start" x="7.2" y="19.849219" transform="rotate(-0 7.2 19.849219)">Bảng 4. Bộ 23 feature dùng chung W1 hai trục / W2</text>
+   </g>
+  </g>
+  <g id="text_98">
+   <text style="fill: #425466; font: 9px 'DejaVu Sans'; text-anchor: start" x="7.2" y="555.659219" transform="rotate(-0 7.2 555.659219)">Loại = categorical (mode + mismatch). Số = numeric (median + chia độ lệch chuẩn).</text>
+  </g>
+ </g>
+</svg>

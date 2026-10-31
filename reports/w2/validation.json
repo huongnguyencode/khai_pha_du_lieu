@@ -1,0 +1,9 @@
+{
+  "status": "passed",
+  "fold_model_evaluations": 125,
+  "oof_prediction_rows": 327150,
+  "unique_people": 13086,
+  "historical_w1_max_metric_difference": 0.0,
+  "historical_temporal_max_metric_difference": 0.0,
+  "artifact_predict_with_missing_values": "passed"
+}

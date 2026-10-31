@@ -1,0 +1,4 @@
+__pycache__/
+*.py[cod]
+*:Zone.Identifier
+.pytest_cache/

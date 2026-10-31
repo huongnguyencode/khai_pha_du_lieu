@@ -1,0 +1,64 @@
+{
+  "n": 13086,
+  "shape": [
+    13086,
+    38
+  ],
+  "class_counts": {
+    "0": 10786,
+    "1": 1228,
+    "2": 693,
+    "3": 379
+  },
+  "missing_total": 12238,
+  "rows_any_feature_missing": 6320,
+  "complete_feature_rows": 6766,
+  "new_cycle_adults": 7809,
+  "new_cycle_under20": 4124,
+  "new_cycle_adults_excluded": 2466,
+  "feature_numeric_count": 12,
+  "feature_categorical_count": 11,
+  "w1_w2_macro_delta": 0.0349092820775993,
+  "w1_w2_fp_reduction_relative": 0.518540880368346,
+  "environment": {
+    "python": "3.12.3",
+    "matplotlib": "3.6.3",
+    "pandas": "2.1.4",
+    "numpy": "1.26.4"
+  },
+  "figures": [
+    "01_bang_rule_4_target",
+    "02_bang_cohort",
+    "03_bang_phan_bo_lop",
+    "04_bieu_do_lech_lop",
+    "05_bang_23_feature",
+    "06_bang_du_lieu_thieu",
+    "07_bieu_do_missingness",
+    "08_bang_vi_du_du_lieu",
+    "09_bang_lam_sach",
+    "11_w0_confusion",
+    "12_w0_distance_confusion",
+    "10_bang_ket_qua_w0",
+    "13_bang_w1_ban_dau",
+    "14_bang_w1_hai_truc",
+    "15_bieu_do_w1_ablation",
+    "16_bang_w2_ablation",
+    "17_bieu_do_w2_macro_f1",
+    "18_bieu_do_danh_doi_w1_w2",
+    "19_w1_confusion_oof",
+    "20_w2_confusion_oof",
+    "21_bang_temporal",
+    "22_bieu_do_temporal",
+    "23_bieu_do_trong_so_w1",
+    "24_bieu_do_precision_recall"
+  ],
+  "source_sha256": {
+    "data/processed/nhanes_combined_2017_2023.csv": "baa538d5e9fd369d3577b7157c58f76322cacf38541d0feeae163032ad9357bd",
+    "nhanes_w0_handoff/baseline_metrics.json": "14a7a5783ce2c86a520afffcfccff338da4709bbf08847a4e1d5589361586052",
+    "reports/w1/nhanes_ablation.csv": "0d1908cde410186964eff3c21c11aa9a39effe4e2bbc061bcdb00062fe79cc12",
+    "reports/combined_w1/model_summary.csv": "235e87cdbff48bf100f8ae1444d52eb3768aec56fae2cf9a565ec8a43b437a5d",
+    "reports/w2/summary.csv": "3784072d1021c04c8b5531ca94cc7b9a841ccedfe77410b53ede77729ee50d63",
+    "reports/w2/oof_predictions.csv": "ff1175f567be7a8de74107796b6e61512e75b959cdeab0d25c9dfdb3197a2b8a",
+    "reports/w2/temporal.csv": "5b20993d1321ef4b9764917a711139f5a587e7508fc8ec0baf9e9ca90d3b4c89"
+  }
+}

@@ -1,0 +1,380 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="851.4pt" height="431.173637pt" viewBox="0 0 851.4 431.173637" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-10-31T23:36:52.911727</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.6.3, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 431.173637 
+L 851.4 431.173637 
+L 851.4 0 
+L 0 0 
+z
+" style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="table_1">
+    <g id="patch_2">
+     <path d="M 7.2 87.677668 
+L 157.86 87.677668 
+L 157.86 49.615041 
+L 7.2 49.615041 
+z
+" style="fill: #17364a; stroke: #dbe3eb; stroke-linejoin: miter"/>
+    </g>
+    <g id="text_1">
+     <text style="fill: #ffffff; font: 700 10.5px 'DejaVu Sans'; text-anchor: middle" x="82.53" y="71.543698" transform="rotate(-0 82.53 71.543698)">Bước</text>
+    </g>
+    <g id="patch_3">
+     <path d="M 157.86 87.677668 
+L 559.62 87.677668 
+L 559.62 49.615041 
+L 157.86 49.615041 
+z
+" style="fill: #17364a; stroke: #dbe3eb; stroke-linejoin: miter"/>
+    </g>
+    <g id="text_2">
+     <text style="fill: #ffffff; font: 700 10.5px 'DejaVu Sans'" transform="translate(312.072422 66.037925)">Quy tắc đã thực</text>
+     <text style="fill: #ffffff; font: 700 10.5px 'DejaVu Sans'" transform="translate(345.90457 78.381659)">hiện</text>
+    </g>
+    <g id="patch_4">
+     <path d="M 559.62 87.677668 
+L 844.2 87.677668 
+L 844.2 49.615041 
+L 559.62 49.615041 
+z
+" style="fill: #17364a; stroke: #dbe3eb; stroke-linejoin: miter"/>
+    </g>
+    <g id="text_3">
+     <text style="fill: #ffffff; font: 700 10.5px 'DejaVu Sans'" transform="translate(659.063438 65.810862)">Mục đích / giới</text>
+     <text style="fill: #ffffff; font: 700 10.5px 'DejaVu Sans'" transform="translate(690.892383 77.650597)">hạn</text>
+    </g>
+    <g id="patch_5">
+     <path d="M 7.2 106.708982 
+L 157.86 106.708982 
+L 157.86 87.677668 
+L 7.2 87.677668 
+z
+" style="fill: #eef4f8; stroke: #dbe3eb; stroke-linejoin: miter"/>
+    </g>
+    <g id="text_4">
+     <text style="font: 10.5px 'DejaVu Sans'; text-anchor: start" x="19.2528" y="100.300669" transform="rotate(-0 19.2528 100.300669)">Khóa / ghép</text>
+    </g>
+    <g id="patch_6">
+     <path d="M 157.86 106.708982 
+L 559.62 106.708982 
+L 559.62 87.677668 
+L 157.86 87.677668 
+z
+" style="fill: #eef4f8; stroke: #dbe3eb; stroke-linejoin: miter"/>
+    </g>
+    <g id="text_5">
+     <text style="font: 10.5px 'DejaVu Sans'; text-anchor: start" x="190.0008" y="100.544301" transform="rotate(-0 190.0008 100.544301)">SEQN duy nhất từng module; DEMO làm bảng gốc</text>
+    </g>
+    <g id="patch_7">
+     <path d="M 559.62 106.708982 
+L 844.2 106.708982 
+L 844.2 87.677668 
+L 559.62 87.677668 
+z
+" style="fill: #eef4f8; stroke: #dbe3eb; stroke-linejoin: miter"/>
+    </g>
+    <g id="text_6">
+     <text style="font: 10.5px 'DejaVu Sans'; text-anchor: start" x="582.3864" y="100.353989" transform="rotate(-0 582.3864 100.353989)">Ngăn nhân bản dòng khi join</text>
+    </g>
+    <g id="patch_8">
+     <path d="M 7.2 125.740295 
+L 157.86 125.740295 
+L 157.86 106.708982 
+L 7.2 106.708982 
+z
+" style="fill: #ffffff; stroke: #dbe3eb; stroke-linejoin: miter"/>
+    </g>
+    <g id="text_7">
+     <text style="font: 10.5px 'DejaVu Sans'; text-anchor: start" x="19.2528" y="119.121982" transform="rotate(-0 19.2528 119.121982)">SAS missing / zero</text>
+    </g>
+    <g id="patch_9">
+     <path d="M 157.86 125.740295 
+L 559.62 125.740295 
+L 559.62 106.708982 
+L 157.86 106.708982 
+z
+" style="fill: #ffffff; stroke: #dbe3eb; stroke-linejoin: miter"/>
+    </g>
+    <g id="text_8">
+     <text style="font: 10.5px 'DejaVu Sans'; text-anchor: start" x="190.0008" y="119.331982" transform="rotate(-0 190.0008 119.331982)">Missing → NA; zero XPT → đúng 0</text>
+    </g>
+    <g id="patch_10">
+     <path d="M 559.62 125.740295 
+L 844.2 125.740295 
+L 844.2 106.708982 
+L 559.62 106.708982 
+z
+" style="fill: #ffffff; stroke: #dbe3eb; stroke-linejoin: miter"/>
+    </g>
+    <g id="text_9">
+     <text style="font: 10.5px 'DejaVu Sans'; text-anchor: start" x="582.3864" y="119.596123" transform="rotate(-0 582.3864 119.596123)">Sửa 772 ô zero lỗi ở handoff lịch sử</text>
+    </g>
+    <g id="patch_11">
+     <path d="M 7.2 163.802922 
+L 157.86 163.802922 
+L 157.86 125.740295 
+L 7.2 125.740295 
+z
+" style="fill: #eef4f8; stroke: #dbe3eb; stroke-linejoin: miter"/>
+    </g>
+    <g id="text_10">
+     <text style="font: 10.5px 'DejaVu Sans'; text-anchor: start" x="19.2528" y="147.668953" transform="rotate(-0 19.2528 147.668953)">Mã câu hỏi</text>
+    </g>
+    <g id="patch_12">
+     <path d="M 157.86 163.802922 
+L 559.62 163.802922 
+L 559.62 125.740295 
+L 157.86 125.740295 
+z
+" style="fill: #eef4f8; stroke: #dbe3eb; stroke-linejoin: miter"/>
+    </g>
+    <g id="text_11">
+     <text style="font: 10.5px 'DejaVu Sans'" transform="translate(190.0008 142.055882)">Chỉ giữ code hợp lệ; 777/999 và 7777/9999</text>
+     <text style="font: 10.5px 'DejaVu Sans'" transform="translate(190.0008 153.813585)">theo biến → NA</text>
+    </g>
+    <g id="patch_13">
+     <path d="M 559.62 163.802922 
+L 844.2 163.802922 
+L 844.2 125.740295 
+L 559.62 125.740295 
+z
+" style="fill: #eef4f8; stroke: #dbe3eb; stroke-linejoin: miter"/>
+    </g>
+    <g id="text_12">
+     <text style="font: 10.5px 'DejaVu Sans'; text-anchor: start" x="582.3864" y="148.122585" transform="rotate(-0 582.3864 148.122585)">Không coi từ chối là số đo</text>
+    </g>
+    <g id="patch_14">
+     <path d="M 7.2 201.865549 
+L 157.86 201.865549 
+L 157.86 163.802922 
+L 7.2 163.802922 
+z
+" style="fill: #ffffff; stroke: #dbe3eb; stroke-linejoin: miter"/>
+    </g>
+    <g id="text_13">
+     <text style="font: 10.5px 'DejaVu Sans'; text-anchor: start" x="19.2528" y="185.73158" transform="rotate(-0 19.2528 185.73158)">Skip logic</text>
+    </g>
+    <g id="patch_15">
+     <path d="M 157.86 201.865549 
+L 559.62 201.865549 
+L 559.62 163.802922 
+L 157.86 163.802922 
+z
+" style="fill: #ffffff; stroke: #dbe3eb; stroke-linejoin: miter"/>
+    </g>
+    <g id="text_14">
+     <text style="font: 10.5px 'DejaVu Sans'" transform="translate(190.0008 179.762002)">Suy ra không dùng thuốc / không hút / không</text>
+     <text style="font: 10.5px 'DejaVu Sans'" transform="translate(190.0008 192.608423)">uống khi đủ nhánh</text>
+    </g>
+    <g id="patch_16">
+     <path d="M 559.62 201.865549 
+L 844.2 201.865549 
+L 844.2 163.802922 
+L 559.62 163.802922 
+z
+" style="fill: #ffffff; stroke: #dbe3eb; stroke-linejoin: miter"/>
+    </g>
+    <g id="text_15">
+     <text style="font: 10.5px 'DejaVu Sans'; text-anchor: start" x="582.3864" y="185.94158" transform="rotate(-0 582.3864 185.94158)">Không gán mọi missing thành 0</text>
+    </g>
+    <g id="patch_17">
+     <path d="M 7.2 239.928177 
+L 157.86 239.928177 
+L 157.86 201.865549 
+L 7.2 201.865549 
+z
+" style="fill: #eef4f8; stroke: #dbe3eb; stroke-linejoin: miter"/>
+    </g>
+    <g id="text_16">
+     <text style="font: 10.5px 'DejaVu Sans'; text-anchor: start" x="19.2528" y="224.250301" transform="rotate(-0 19.2528 224.250301)">Đồng nhất chu kỳ</text>
+    </g>
+    <g id="patch_18">
+     <path d="M 157.86 239.928177 
+L 559.62 239.928177 
+L 559.62 201.865549 
+L 157.86 201.865549 
+z
+" style="fill: #eef4f8; stroke: #dbe3eb; stroke-linejoin: miter"/>
+    </g>
+    <g id="text_17">
+     <text style="font: 10.5px 'DejaVu Sans'" transform="translate(190.0008 217.724222)">Albumin cũ: 1.381 + 0.8407 × giá trị gốc;</text>
+     <text style="font: 10.5px 'DejaVu Sans'" transform="translate(190.0008 230.771457)">thuốc huyết áp quy đổi</text>
+    </g>
+    <g id="patch_19">
+     <path d="M 559.62 239.928177 
+L 844.2 239.928177 
+L 844.2 201.865549 
+L 559.62 201.865549 
+z
+" style="fill: #eef4f8; stroke: #dbe3eb; stroke-linejoin: miter"/>
+    </g>
+    <g id="text_18">
+     <text style="font: 10.5px 'DejaVu Sans'; text-anchor: start" x="582.3864" y="224.004207" transform="rotate(-0 582.3864 224.004207)">Giữ cùng nghĩa trước tạo nhãn / train</text>
+    </g>
+    <g id="patch_20">
+     <path d="M 7.2 277.990804 
+L 157.86 277.990804 
+L 157.86 239.928177 
+L 7.2 239.928177 
+z
+" style="fill: #ffffff; stroke: #dbe3eb; stroke-linejoin: miter"/>
+    </g>
+    <g id="text_19">
+     <text style="font: 10.5px 'DejaVu Sans'; text-anchor: start" x="19.2528" y="262.312928" transform="rotate(-0 19.2528 262.312928)">Nguồn nhãn</text>
+    </g>
+    <g id="patch_21">
+     <path d="M 157.86 277.990804 
+L 559.62 277.990804 
+L 559.62 239.928177 
+L 157.86 239.928177 
+z
+" style="fill: #ffffff; stroke: #dbe3eb; stroke-linejoin: miter"/>
+    </g>
+    <g id="text_20">
+     <text style="font: 10.5px 'DejaVu Sans'" transform="translate(190.0008 256.515287)">Không impute creatinine / albumin để tạo</text>
+     <text style="font: 10.5px 'DejaVu Sans'" transform="translate(190.0008 268.27299)">target</text>
+    </g>
+    <g id="patch_22">
+     <path d="M 559.62 277.990804 
+L 844.2 277.990804 
+L 844.2 239.928177 
+L 559.62 239.928177 
+z
+" style="fill: #ffffff; stroke: #dbe3eb; stroke-linejoin: miter"/>
+    </g>
+    <g id="text_21">
+     <text style="font: 10.5px 'DejaVu Sans'; text-anchor: start" x="582.3864" y="262.310467" transform="rotate(-0 582.3864 262.310467)">Chỉ dùng nhãn từ số đo có thật</text>
+    </g>
+    <g id="patch_23">
+     <path d="M 7.2 297.022117 
+L 157.86 297.022117 
+L 157.86 277.990804 
+L 7.2 277.990804 
+z
+" style="fill: #eef4f8; stroke: #dbe3eb; stroke-linejoin: miter"/>
+    </g>
+    <g id="text_22">
+     <text style="font: 10.5px 'DejaVu Sans'; text-anchor: start" x="19.2528" y="290.403804" transform="rotate(-0 19.2528 290.403804)">Numeric trong fold</text>
+    </g>
+    <g id="patch_24">
+     <path d="M 157.86 297.022117 
+L 559.62 297.022117 
+L 559.62 277.990804 
+L 157.86 277.990804 
+z
+" style="fill: #eef4f8; stroke: #dbe3eb; stroke-linejoin: miter"/>
+    </g>
+    <g id="text_23">
+     <text style="font: 10.5px 'DejaVu Sans'; text-anchor: start" x="190.0008" y="290.403804" transform="rotate(-0 190.0008 290.403804)">Median train; chia SD train; SD=0 → 1</text>
+    </g>
+    <g id="patch_25">
+     <path d="M 559.62 297.022117 
+L 844.2 297.022117 
+L 844.2 277.990804 
+L 559.62 277.990804 
+z
+" style="fill: #eef4f8; stroke: #dbe3eb; stroke-linejoin: miter"/>
+    </g>
+    <g id="text_24">
+     <text style="font: 10.5px 'DejaVu Sans'; text-anchor: start" x="582.3864" y="290.941109" transform="rotate(-0 582.3864 290.941109)">Không để đơn vị đo chi phối khoảng cách</text>
+    </g>
+    <g id="patch_26">
+     <path d="M 7.2 335.084744 
+L 157.86 335.084744 
+L 157.86 297.022117 
+L 7.2 297.022117 
+z
+" style="fill: #ffffff; stroke: #dbe3eb; stroke-linejoin: miter"/>
+    </g>
+    <g id="text_25">
+     <text style="font: 10.5px 'DejaVu Sans'; text-anchor: start" x="19.2528" y="318.950775" transform="rotate(-0 19.2528 318.950775)">Categorical trong fold</text>
+    </g>
+    <g id="patch_27">
+     <path d="M 157.86 335.084744 
+L 559.62 335.084744 
+L 559.62 297.022117 
+L 157.86 297.022117 
+z
+" style="fill: #ffffff; stroke: #dbe3eb; stroke-linejoin: miter"/>
+    </g>
+    <g id="text_26">
+     <text style="font: 10.5px 'DejaVu Sans'" transform="translate(190.0008 312.583345)">Mode train; mismatch chuẩn hóa theo feature</text>
+     <text style="font: 10.5px 'DejaVu Sans'" transform="translate(190.0008 325.429767)">gốc</text>
+    </g>
+    <g id="patch_28">
+     <path d="M 559.62 335.084744 
+L 844.2 335.084744 
+L 844.2 297.022117 
+L 559.62 297.022117 
+z
+" style="fill: #ffffff; stroke: #dbe3eb; stroke-linejoin: miter"/>
+    </g>
+    <g id="text_27">
+     <text style="font: 10.5px 'DejaVu Sans'; text-anchor: start" x="582.3864" y="319.406868" transform="rotate(-0 582.3864 319.406868)">Một biến nhiều mức không được nhiều phiếu</text>
+    </g>
+    <g id="patch_29">
+     <path d="M 7.2 373.147372 
+L 157.86 373.147372 
+L 157.86 335.084744 
+L 7.2 335.084744 
+z
+" style="fill: #eef4f8; stroke: #dbe3eb; stroke-linejoin: miter"/>
+    </g>
+    <g id="text_28">
+     <text style="font: 10.5px 'DejaVu Sans'; text-anchor: start" x="19.2528" y="357.467035" transform="rotate(-0 19.2528 357.467035)">Bất thường / lệch phải</text>
+    </g>
+    <g id="patch_30">
+     <path d="M 157.86 373.147372 
+L 559.62 373.147372 
+L 559.62 335.084744 
+L 157.86 335.084744 
+z
+" style="fill: #eef4f8; stroke: #dbe3eb; stroke-linejoin: miter"/>
+    </g>
+    <g id="text_29">
+     <text style="font: 10.5px 'DejaVu Sans'" transform="translate(190.0008 351.336183)">Không thấy bước clipping, winsorization, log</text>
+     <text style="font: 10.5px 'DejaVu Sans'" transform="translate(190.0008 363.597886)">trong pipeline hiện tại</text>
+    </g>
+    <g id="patch_31">
+     <path d="M 559.62 373.147372 
+L 844.2 373.147372 
+L 844.2 335.084744 
+L 559.62 335.084744 
+z
+" style="fill: #eef4f8; stroke: #dbe3eb; stroke-linejoin: miter"/>
+    </g>
+    <g id="text_30">
+     <text style="font: 10.5px 'DejaVu Sans'; text-anchor: start" x="582.3864" y="357.467035" transform="rotate(-0 582.3864 357.467035)">Không viết các bước chưa thực hiện</text>
+    </g>
+   </g>
+   <g id="text_31">
+    <text style="font: 700 15px 'DejaVu Sans'; text-anchor: start" x="7.2" y="20.566406" transform="rotate(-0 7.2 20.566406)">Bảng 7. Quy tắc làm sạch và tiền xử lý</text>
+   </g>
+  </g>
+  <g id="text_32">
+   <text style="fill: #425466; font: 9px 'DejaVu Sans'; text-anchor: start" x="7.2" y="421.851606" transform="rotate(-0 7.2 421.851606)">Tham chiếu builder.py, combined_builder.py, combined_experiment.py; mọi thống kê fit trong train.</text>
+  </g>
+ </g>
+</svg>

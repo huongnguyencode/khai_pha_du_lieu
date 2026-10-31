@@ -1,6 +1,6 @@
 {
   "dataset": "NHANES August 2021-August 2023 CKD measurement-pattern study",
-  "created_utc": "2026-10-30T17:48:31.818206+00:00",
+  "created_utc": "2026-10-31T13:56:06.940793+00:00",
   "pipeline_version": "1.0.0",
   "join_key": "SEQN",
   "join_strategy": "DEMO_L anchored left joins",

@@ -1,0 +1,11 @@
+**
+!requirements.web.txt
+!src
+!src/**
+!web
+!web/**
+!models
+!models/nhanes_w2.pkl
+**/__pycache__
+**/*.pyc
+web/tests/screenshots
